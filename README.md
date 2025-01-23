@@ -1,5 +1,7 @@
 # awesome-GameEmulator
 
+English | 简体中文
+
 ## Emulator
 
 ### Arcade emulator
@@ -40,7 +42,6 @@
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.
 
 ## Emulator integrated system
-
 
 * [Batocera](https://batocera.org) Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently.
 * [Lakka](https://www.lakka.tv) Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
