@@ -1,6 +1,6 @@
 # 超棒的游戏模拟器资源
 
-English | 简体中文
+[English](https://github.com/liminbai/awesome-GameEmulator/blob/main/README.md) | 简体中文
 
 ## 模拟器
 

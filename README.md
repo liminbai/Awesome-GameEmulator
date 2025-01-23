@@ -1,6 +1,6 @@
 # awesome-GameEmulator
 
-English | 简体中文
+English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/main/README_zh.md)
 
 ## Emulator
 
