@@ -11,12 +11,16 @@
 * [Xenia](https://xbox360emulator.com) Xenia is a free and open-source Xbox 360 Emulator written in C++ for Windows & Linux. An unofficial version ported to Android is also available.
 * [Yuzu](https://emuyuzu.com) Yuzu Emulator is an open-source emulator to decrypt the Nintendo game files. With Yuzu, you play your favorite Switch games on Android, Windows, or Linux. The emulator is known for its efficiency and compatibility with several switch games. That is the reason behind its popularity. It works wonders for you in the realm of switch games.
 * [OpenEmu](https://openemu.org) OpenEmu is about to change the world of video game emulation. One console at a time...
-* [Batocera](https://batocera.org) Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently.
 * [Pegasus Frontend](https://pegasus-frontend.org) Pegasus is a graphical frontend for browsing your game library and launching all kinds of emulators from the same place. It's focusing on customizability, cross platform support (including embedded) and high performance.
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.
-* [Lakka](https://www.lakka.tv) Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels, and joysticks.
 * [EmuELEC](https://github.com/EmuELEC/EmuELEC) Retro emulation for Amlogic devices. Based on [CoreELEC](https://github.com/CoreELEC/CoreELEC) and [Lakka](https://github.com/libretro/Lakka-LibreELEC) with tidbits from [Batocera](https://github.com/batocera-linux/batocera.linux). I just combine them with [Batocera-Emulationstation](https://github.com/batocera-linux/batocera-emulationstation) and some standalone emulators ([Advancemame](https://github.com/amadvance/advancemame), [PPSSPP](https://github.com/hrydgard/ppsspp), [Reicast](https://github.com/reicast/reicast-emulator), [Amiberry](https://github.com/midwan/amiberry) and others).
+
+## Emulator integrated system
+
+
+* [Batocera](https://batocera.org) Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently.
+* [Lakka](https://www.lakka.tv) Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
 
 ## GameROMS
 
