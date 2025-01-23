@@ -1,5 +1,7 @@
 # awesome-GameEmulator
 
+Salute to the classics, as well as the outstanding individuals who have made contributions in the simulation field.
+
 English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/main/README_zh.md)
 
 ## Emulator
@@ -16,8 +18,11 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [ZSNES](https://www.zsnes.com) ZSNES is a Super Nintendo emulator programmed by zsKnight and \_Demo\_. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public. It currently runs on Windows, Linux, FreeBSD, and DOS. Remember that this is a public beta so don't expect this to run on your machine.
 * [Snes9x](http://www.snes9x.com/) Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems on your PC or Workstation; which includes some real gems that were only ever released in Japan.
 * [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.
+* [No$GBA](https://www.nogba.com) GBA and Nintendo DS Emulator for Windows.
 * [Desmume](http://desmume.org/) Nintendo DS Emulator.
 * [Yuzu](https://emuyuzu.com) Yuzu Emulator is an open-source emulator to decrypt the Nintendo game files. With Yuzu, you play your favorite Switch games on Android, Windows, or Linux. The emulator is known for its efficiency and compatibility with several switch games. That is the reason behind its popularity. It works wonders for you in the realm of switch games.
+* [Cemu](https://cemu.info) Software to emulate Wii U games and applications on PC.
+* [Project64](https://www.pj64-emu.com) Breathe new life into your favourite retro N64 games with Project64.
 
 ### Xbox emulator
 
@@ -27,6 +32,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 * [ePSXe](https://www.epsxe.com) PlayStation 1 emulator.
 * [PCSX2](https://pcsx2.net) PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine that manages hardware states and system memory.
+* [RPCS3](https://rpcs3.net) RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
 * [ppsspp](https://www.ppsspp.org) a fast and portable PSP emulator.
 
 ### Sega emulator
@@ -39,6 +45,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 * [OpenEmu](https://openemu.org) OpenEmu is about to change the world of video game emulation. One console at a time...
 * [Pegasus Frontend](https://pegasus-frontend.org) Pegasus A cross platform, customizable graphical frontend for launching emulators and managing your game collection.Pegasus is a graphical frontend for browsing your game library and launching all kinds of emulators from the same place. It's focusing on customizability, cross platform support (including embedded) and high performance.
+* [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk is a multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers (Tool-Assisted Speedrunners). More info [below](https://github.com/TASEmulators/BizHawk#features-and-systems).
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.
 
 ## Emulator integrated system
