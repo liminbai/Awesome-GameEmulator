@@ -70,10 +70,6 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [RomWorld](https://www.romworldonline.com) Welcome to ROM World. A website dedicated to **snes roms** and roms for other systems as well as emulation. We have many snes roms available for our users to download absolutely free. We also have roms for gba, sega mega drive, sega master system, sega genesis, mame, Nintendo DS and N64. In addition we also have the emulators for you to play the roms on.
 * [WoWroms](https://wowroms.com) The multilanguage-supported WoWroms is another website that can replace Vimm’s Lair completely. With it, we can download ROMs, ISOs, and emulators for systems like Playstation, Nintendo, MAME, and Gameboy.
 
-## This site is dedicated to **everything MAME from Roms** and **MAME Emulators** and all available for free fast download to your phone or tablet PC.  No Adverts just Cool ROMs for the MAME.
-
-## This site is dedicated to **everything MAME from Roms** and **MAME Emulators** and all available for free fast download to your phone or tablet PC.  No Adverts just Cool ROMs for the MAME.
-
 ## ROM Manager
 
 * [RomM](https://github.com/rommapp/romm) RomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators.
