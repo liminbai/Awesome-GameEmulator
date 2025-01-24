@@ -1,4 +1,4 @@
-# awesome-GameEmulator
+# Awesome-GameEmulator
 
 Salute to the classics, as well as the outstanding individuals who have made contributions in the simulation field.
 
