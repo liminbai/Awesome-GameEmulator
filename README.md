@@ -47,6 +47,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Pegasus Frontend](https://pegasus-frontend.org) Pegasus A cross platform, customizable graphical frontend for launching emulators and managing your game collection.Pegasus is a graphical frontend for browsing your game library and launching all kinds of emulators from the same place. It's focusing on customizability, cross platform support (including embedded) and high performance.
 * [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk is a multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers (Tool-Assisted Speedrunners). More info [below](https://github.com/TASEmulators/BizHawk#features-and-systems).
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.
+* [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。
 
 ## Emulator integrated system
 
@@ -75,6 +76,8 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [RomM](https://github.com/rommapp/romm) RomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators.
 * [oxyROMon](https://github.com/alucryd/oxyromon/) oxyROMon is a cross-platform opinionated CLI ROM organizer written in Rust. Like most ROM managers, it checks ROM files against known good databases. It is designed with archiving in mind, so it only supports original and lossless ROM formats. It can, however, export in various popular lossy formats, leaving the lossless ROM files untouched. Sorting can be done in regions mode, in so-called 1G1R mode, or both. Console, computer, and arcade (WIP) systems are supported using Logiqx DAT files. The first two require No-Intro or Redump DAT files, while the latter uses MAME or FBNeo DAT files.
 * [Romcenter](https://www.romcenter.com/) Romcenter (RC) is a rom manager, a program with which you can manage collections of games supported by an emulator.
+* [ClrMamePro](https://mamedev.emulab.it) ‌ClrMamePro‌是一款专业的ROM管理工具，主要用于管理和验证ROM文件的完整性和一致性。
+* [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) Want to play some old or new emulator games on your couch? Adding them to steam gives you access to the steam overlay, excellent controller management, and even in home and remote streaming. Adding your emulator games manually is a huge pain, but fear not! Introducing Steam ROM Manager, the bulk game importer and artwork manager for Steam!
 
 ## Forum community
 
