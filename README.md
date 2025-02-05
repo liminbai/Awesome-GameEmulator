@@ -8,21 +8,21 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 ### Arcade emulator
 
-* [MAME](https://www.mamedev.org/) MAME is a multi-purpose emulation framework.
-* [WinKawaks](https://www.kawaks.org) Kawaks, The BEST arcade game emulator for Capcom and NeoGeo games. When it released, the emulation enthusiast prefers Kawaks. Thank you guys!
-* [Teknoparrot](https://teknoparrot.com) TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels, and joysticks.
+* [MAME](https://www.mamedev.org/) MAME is a multi-purpose emulation framework.![MAME](https://www.mamedev.org/_include/img/logo-mame-small-gradient.svg)
+* [WinKawaks](https://www.kawaks.org) Kawaks, The BEST arcade game emulator for Capcom and NeoGeo games. When it released, the emulation enthusiast prefers Kawaks. Thank you guys!![winkawask](./images/README/winkawask.jpg)
+* [Teknoparrot](https://teknoparrot.com) TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels, and joysticks.![winkawask](./images/README/teknoparrot-logo-new.png)
 
 ### Nintendo emulator
 
-* [FCEUX](https://fceux.com) The all in one NES/Famicom/Dendy Emulator.
-* [ZSNES](https://www.zsnes.com) ZSNES is a Super Nintendo emulator programmed by zsKnight and \_Demo\_. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public. It currently runs on Windows, Linux, FreeBSD, and DOS. Remember that this is a public beta so don't expect this to run on your machine.
-* [Snes9x](http://www.snes9x.com/) Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems on your PC or Workstation; which includes some real gems that were only ever released in Japan.
+* [FCEUX](https://fceux.com) The all in one NES/Famicom/Dendy Emulator.![](https://fceux.com/web/assets/ICON_1.ico)
+* [ZSNES](https://www.zsnes.com) ZSNES is a Super Nintendo emulator programmed by zsKnight and \_Demo\_. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public. It currently runs on Windows, Linux, FreeBSD, and DOS. Remember that this is a public beta so don't expect this to run on your machine.![winkawask](./images/README/ZSNES.png)
+* [Snes9x](http://www.snes9x.com/) Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems on your PC or Workstation; which includes some real gems that were only ever released in Japan.![winkawask](./images/README/snes9x-logo.png)
 * [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.
 * [No$GBA](https://www.nogba.com) GBA and Nintendo DS Emulator for Windows.
 * [Desmume](http://desmume.org/) Nintendo DS Emulator.
 * [Yuzu](https://emuyuzu.com) Yuzu Emulator is an open-source emulator to decrypt the Nintendo game files. With Yuzu, you play your favorite Switch games on Android, Windows, or Linux. The emulator is known for its efficiency and compatibility with several switch games. That is the reason behind its popularity. It works wonders for you in the realm of switch games.
-* [Cemu](https://cemu.info) Software to emulate Wii U games and applications on PC.
-* [Project64](https://www.pj64-emu.com) Breathe new life into your favourite retro N64 games with Project64.
+* [Cemu](https://cemu.info) Software to emulate Wii U games and applications on PC.![cemu](https://cemu.info/favicon.ico)
+* [Project64](https://www.pj64-emu.com) Breathe new life into your favourite retro N64 games with Project64.![winkawask](./images/README/hdr_logo.png)
 
 ### Xbox emulator
 
@@ -54,6 +54,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Batocera](https://batocera.org) Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently.
 * [Lakka](https://www.lakka.tv) Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
 * [EmuELEC](https://github.com/EmuELEC/EmuELEC) [EmuELEC中文](https://www.emuelec.cn) Retro emulation for Amlogic devices. Based on [CoreELEC](https://github.com/CoreELEC/CoreELEC) and [Lakka](https://github.com/libretro/Lakka-LibreELEC) with tidbits from [Batocera](https://github.com/batocera-linux/batocera.linux). I just combine them with [Batocera-Emulationstation](https://github.com/batocera-linux/batocera-emulationstation) and some standalone emulators ([Advancemame](https://github.com/amadvance/advancemame), [PPSSPP](https://github.com/hrydgard/ppsspp), [Reicast](https://github.com/reicast/reicast-emulator), [Amiberry](https://github.com/midwan/amiberry) and others).
+* [Recalbox](https://www.recalbox.com) Recalbox Home Recalbox RGB JAMMA Create your Recalbox 1 Blog Recalbox RGB JAMMA and DUAL are back inour new shop! Get yours now! Go to the shop THEall-in-one retr...
 
 ## GameROMS
 
