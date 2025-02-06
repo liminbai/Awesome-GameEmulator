@@ -17,12 +17,14 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [FCEUX](https://fceux.com) The all in one NES/Famicom/Dendy Emulator.![](https://fceux.com/web/assets/ICON_1.ico)
 * [ZSNES](https://www.zsnes.com) ZSNES is a Super Nintendo emulator programmed by zsKnight and \_Demo\_. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public. It currently runs on Windows, Linux, FreeBSD, and DOS. Remember that this is a public beta so don't expect this to run on your machine.![zsnes](./images/README/ZSNES.png)
 * [Snes9x](http://www.snes9x.com/) Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems on your PC or Workstation; which includes some real gems that were only ever released in Japan.![snes9x](./images/README/snes9x-logo.png)
+* [Desmume](http://desmume.org/) Nintendo DS Emulator.
+* [Project64](https://www.pj64-emu.com) Breathe new life into your favourite retro N64 games with Project64.![winkawask](./images/README/hdr_logo.png)
+* [Dolphin](https://dolphin-emu.org/) is an emulator for two recent Nintendo video game consoles: the **GameCube** and the **Wii**. It allows PC gamers to enjoy games for these two consoles in **full HD** (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more!![dolphin](./images/README/dolphin.png)
+* [Cemu](https://cemu.info) Software to emulate Wii U games and applications on PC.![cemu](https://cemu.info/favicon.ico)
+* [Yuzu](https://yuzu-emulator.net) is an open-source emulator that allows you to play Nintendo Switch games on platforms such as Windows, Android and Linux.![Yuzu](./images/README/Yuzu.png)
+* [Ryujinx](https://ryujinx-emulator.com) Ryujinx is an open-source Nintendo Switch emulator for Windows, Mac and Linux devices.![Ryujinx](./images/README/ryujinx.png)
 * [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.
 * [No$GBA](https://www.nogba.com) GBA and Nintendo DS Emulator for Windows.
-* [Desmume](http://desmume.org/) Nintendo DS Emulator.
-* [Yuzu](https://emuyuzu.com) Yuzu Emulator is an open-source emulator to decrypt the Nintendo game files. With Yuzu, you play your favorite Switch games on Android, Windows, or Linux. The emulator is known for its efficiency and compatibility with several switch games. That is the reason behind its popularity. It works wonders for you in the realm of switch games.
-* [Cemu](https://cemu.info) Software to emulate Wii U games and applications on PC.![cemu](https://cemu.info/favicon.ico)
-* [Project64](https://www.pj64-emu.com) Breathe new life into your favourite retro N64 games with Project64.![winkawask](./images/README/hdr_logo.png)
 
 ### Xbox emulator
 
@@ -32,7 +34,9 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 * [ePSXe](https://www.epsxe.com) PlayStation 1 emulator.![epsxe](./images/README/right_banner.jpg)
 * [PCSX2](https://pcsx2.net) PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine that manages hardware states and system memory.![pcsx2](./images/README/pcsx2.png)
+* [AetherSX2 ](https://aethersx2.net/)is a PlayStation 2 emulator that enables users to play PS2 games on iOS, Android, Mac, Windows PC, Linux users can play their favorite games from the PS2 console without the need for a physical PS2 console.![aechersx2](./images/README/aechersx2.png)
 * [RPCS3](https://rpcs3.net) RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.![rpcs3](./images/README/rpcs3.jpg)
+* [shadPS4](https://shadps4.net) shadPS4 is an early PlayStation 4 emulator for Windows, Linux and macOS.![sps4](./images/README/SPS4.png)
 * [ppsspp](https://www.ppsspp.org) a fast and portable PSP emulator.![ppsspp](./images/README/ppsspp.png)
 
 ### Sega emulator
@@ -87,3 +91,4 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [ngemu](https://www.ngemu.com) A forum community dedicated to all emulation enthusiasts. Come Join discussion on all platforms from Nintendo, Microsoft Xbox, Sony Playstation, to PC. Coding, tips, builds, specs, tricks and more.![ngemu_com](./images/README/ngemu_com.png)
 * [emu-france](http://www.emu-france.com) Créé par Avery Lee (l’auteur deVirtualDub), il s’agit d’un émulateur d’Atari 8 bits (800/800XL/130XE) disponible en 32 et 64 bits.![emu-france](./images/README/emu-france.png)
 * [EmuCR](https://www.emucr.com) Latest emulators for PS5,PS4,NS,PS3,WiiU,Wii,PS2,Xbox360,Xbox,3DS,PSV,PS,NDS,PSP,GBA,N64,DC,Arcade and many other systems.![emucr](./images/README/emucr.png)
+* [围炉Go](https://www.wlgooo.com/) 围炉Go社区有经典电脑单机，老漫画。主机、掌机汉化发布,文学心得创作,各类合集与工具分享。精品图文内容呈现，制作人们的分享创作舞台，全网最精致的典藏内容。![wlgooo](./images/README/wlgooo.png)

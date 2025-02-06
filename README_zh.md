@@ -17,22 +17,24 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [FCEUX](https://fceux.com) 一体化的 NES/Famicom/Dendy 模拟器。![](https://fceux.com/web/assets/ICON_1.ico)
 * [ZSNES](https://www.zsnes.com) ZSNES 是由 zsKnight 和 \_Demo\_ 编写的超级任天堂模拟器。2001 年 4 月 2 日，ZSNES 项目被 GPL 授权并向公众发布其源代码。它目前可以在 Windows、Linux、FreeBSD 和 DOS 上运行。请记住，这是一个公开测试版，所以不要指望它能在你的机器上运行。![zsnes](./images/README/ZSNES.png)
 * [Snes9x](http://www.snes9x.com/) Snes9x 是一个便携的、免费的超级任天堂娱乐系统 (SNES) 模拟器。它基本上允许你在 PC 或工作站上玩大多数为 SNES 和超级任天堂游戏系统设计的游戏；其中包括一些仅在日本发布的真正宝石。![snes9x](./images/README/snes9x-logo.png)
+* [Desmume](http://desmume.org/) Nintendo DS 模拟器。
+* [Project64](https://www.pj64-emu.com) 让你的经典 N64 游戏焕发新生。![winkawask](./images/README/hdr_logo.png)
+* [Dolphin](https://cn.dolphin-emu.org/) 是一款对应任天堂游戏主机 **GameCube** 和 **Wii** 的模拟器。它可以让电脑玩家以**全高清** (1080p) 画质体验这两款主机的游戏，还具有兼容电脑手柄、加速、多人联网等增强功能。![dolphin](./images/README/dolphin.png)
+* [Cemu](https://cemu.info) 用于在 PC 上模拟 Wii U 游戏和应用程序的软件。![cemu](https://cemu.info/favicon.ico)
+* [Yuzu](https://yuzu-emulator.net) Yuzu是一款开源模拟器，能让您在诸如 Windows、Android 和 Linux 等平台上玩任天堂 Switch 游戏。![Yuzu](./images/README/Yuzu.png)
+* [Ryujinx](https://ryujinx-emulator.com) Ryujinx 是一款适用于 Windows、Mac 和 Linux 设备的开源任天堂 Switch 游戏机模拟器。![Ryujinx](./images/README/ryujinx.png)
 * [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance 是一个开源的 Game Boy Advance (GBA) 模拟器，适用于 Windows、Mac、Linux、Android 和 IOS 设备。
 * [No$GBA](https://www.nogba.com) 适用于 Windows 的 GBA 和 Nintendo DS 模拟器。
-* [Desmume](http://desmume.org/) Nintendo DS 模拟器。
-* [Yuzu](https://emuyuzu.com) Yuzu 模拟器是一个开源模拟器，用于解密任天堂游戏文件。使用 Yuzu，你可以在 Android、Windows 或 Linux 上玩你最喜欢的 Switch 游戏。该模拟器以其效率和与多个 Switch 游戏的兼容性而闻名。这也是它受欢迎的原因。它在 Switch 游戏领域为你带来了奇迹。
-* [Cemu](https://cemu.info) 用于在 PC 上模拟 Wii U 游戏和应用程序的软件。![cemu](https://cemu.info/favicon.ico)
-* [Project64](https://www.pj64-emu.com) 让你的经典 N64 游戏焕发新生。![winkawask](./images/README/hdr_logo.png)
-
-### Xbox 模拟器
-
+* ### Xbox 模拟器
 * [Xenia](https://xbox360emulator.com) Xenia 是一个免费的开源 Xbox 360 模拟器，用 C++ 编写，适用于 Windows 和 Linux。还有一个非官方版本移植到 Android。
 
 ### 索尼模拟器
 
 * [ePSXe](https://www.epsxe.com) PlayStation 1 模拟器。![epsxe](./images/README/right_banner.jpg)
 * [PCSX2](https://pcsx2.net) PCSX2 是一个免费的开源 PlayStation 2 (PS2) 模拟器。其目的是模拟 PS2 的硬件，使用 MIPS CPU 解释器、重新编译器和管理硬件状态和系统内存的虚拟机的组合。![pcsx2](./images/README/pcsx2.png)
+* [AetherSX2 ](https://aethersx2.net/)是一款适用于 PlayStation 2 的模拟器，能让用户在 iOS、Android、Mac、Windows PC 和 Linux 等平台上运行 PlayStation 2 游戏。对于使用 PlayStation 2 游戏机的用户来说，无需拥有实体 PlayStation 2 游戏机即可畅玩其喜爱的游戏。![aechersx2](./images/README/aechersx2.png)
 * [RPCS3](https://rpcs3.net) RPCS3 是一个多平台开源 Sony PlayStation 3 模拟器和调试器，用 C++ 编写，适用于 Windows、Linux、macOS 和 FreeBSD。![rpcs3](./images/README/rpcs3.jpg)
+* [shadPS4](https://shadps4.net) shadPS4 是一款专为 Windows、Linux 和 macOS 系统开发的早期 PlayStation 4 主机模拟器。![sps4](./images/README/SPS4.png)
 * [ppsspp](https://www.ppsspp.org) 一个快速便携的 PSP 模拟器。![ppsspp](./images/README/ppsspp.png)
 
 ### 世嘉模拟器
@@ -87,3 +89,4 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [ngemu](https://www.ngemu.com) 一个致力于所有模拟爱好者的论坛社区。加入讨论所有平台，从任天堂、微软 Xbox、索尼 PlayStation 到 PC。编码、提示、构建、规格、技巧等。![ngemu_com](./images/README/ngemu_com.png)
 * [emu-france](http://www.emu-france.com) 由 Avery Lee（VirtualDub 的作者）创建，这是一个 Atari 8 位（800/800XL/130XE）模拟器，提供 32 位和 64 位版本。![emu-france](./images/README/emu-france.png)
 * [EmuCR](https://www.emucr.com) 最新的 PS5、PS4、NS、PS3、WiiU、Wii、PS2、Xbox360、Xbox、3DS、PSV、PS、NDS、PSP、GBA、N64、DC、街机等系统的模拟器。![emucr](./images/README/emucr.png)
+* [围炉Go](https://www.wlgooo.com/) 围炉Go社区有经典电脑单机，老漫画。主机、掌机汉化发布,文学心得创作,各类合集与工具分享。精品图文内容呈现，制作人们的分享创作舞台，全网最精致的典藏内容。![wlgooo](./images/README/wlgooo.png)
