@@ -23,12 +23,12 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Cemu](https://cemu.info) Software to emulate Wii U games and applications on PC.![cemu](https://cemu.info/favicon.ico)
 * [Yuzu](https://yuzu-emulator.net) is an open-source emulator that allows you to play Nintendo Switch games on platforms such as Windows, Android and Linux.![Yuzu](./images/README/Yuzu.png)
 * [Ryujinx](https://ryujinx-emulator.com) Ryujinx is an open-source Nintendo Switch emulator for Windows, Mac and Linux devices.![Ryujinx](./images/README/ryujinx.png)
-* [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.
-* [No$GBA](https://www.nogba.com) GBA and Nintendo DS Emulator for Windows.
+* [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.![cropped](./images/README/cropped.png)
+* [No$GBA](https://www.nogba.com) GBA and Nintendo DS Emulator for Windows.![nogba](./images/README/nogba.png)
 
 ### Xbox emulator
 
-* [Xenia](https://xbox360emulator.com) Xenia is a free and open-source Xbox 360 Emulator written in C++ for Windows & Linux. An unofficial version ported to Android is also available.
+* [Xenia](https://xbox360emulator.com) Xenia is a free and open-source Xbox 360 Emulator written in C++ for Windows & Linux. An unofficial version ported to Android is also available.![xbox360](./images/README/xbox360.png)
 
 ### Sony emulator
 
@@ -42,14 +42,14 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 ### Sega emulator
 
 * [Gens](http://gens.me/) Sega MD emulator.![gens](./images/README/genslogo.png)
-* [Yabause](http://yabause.org) Yabause is a Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.
+* [Yabause](http://yabause.org) Yabause is a Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.![yabause](./images/README/yabause.jpg)
 * [Demul](http://demul.emulation64.com/) *Sega* Dreamcat(DC) emulator.![demul](./images/README/Demul.png)
 
 ## Emulator integrated UI
 
 * [OpenEmu](https://openemu.org) OpenEmu is about to change the world of video game emulation. One console at a time...![openemul](./images/README/OpenEmu.png)
 * [Pegasus](https://pegasus-frontend.org) Pegasus A cross platform, customizable graphical frontend for launching emulators and managing your game collection.Pegasus is a graphical frontend for browsing your game library and launching all kinds of emulators from the same place. It's focusing on customizability, cross platform support (including embedded) and high performance.![pegasus](./images/README/Pegasus.png)
-* [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk is a multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers (Tool-Assisted Speedrunners).
+* [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk is a multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers (Tool-Assisted Speedrunners).![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.![retroarch](./images/README/retroarch.png)
 * [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
 
@@ -58,7 +58,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Batocera](https://batocera.org) Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently.![batocera](./images/README/batocera.png)
 * [Lakka](https://www.lakka.tv) Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.![lakka](./images/README/lakka.jpg)
 * [EmuELEC](https://github.com/EmuELEC/EmuELEC) Retro emulation for Amlogic devices. Based on [CoreELEC](https://github.com/CoreELEC/CoreELEC) and [Lakka](https://github.com/libretro/Lakka-LibreELEC) with tidbits from [Batocera](https://github.com/batocera-linux/batocera.linux). I just combine them with [Batocera-Emulationstation](https://github.com/batocera-linux/batocera-emulationstation) and some standalone emulators ([Advancemame](https://github.com/amadvance/advancemame), [PPSSPP](https://github.com/hrydgard/ppsspp), [Reicast](https://github.com/reicast/reicast-emulator), [Amiberry](https://github.com/midwan/amiberry) and others).![emuelec](./images/README/EmuELEC.png)
-* [Recalbox](https://www.recalbox.com) Recalbox Home Recalbox RGB JAMMA Create your Recalbox 1 Blog Recalbox RGB JAMMA and DUAL are back inour new shop! Get yours now! Go to the shop THEall-in-one retr...
+* [Recalbox](https://www.recalbox.com) Replay **all the consoles, arcades, and computers** of your childhood.![recalbox](./images/README/recalbox.png)
 
 ## GameROMS
 
@@ -82,8 +82,8 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [RomM](https://github.com/rommapp/romm) RomM (ROM Manager) allows you to scan, enrich, browse and play your game collection with a clean and responsive interface. With support for multiple platforms, various naming schemes, and custom tags, RomM is a must-have for anyone who plays on emulators.![romm](./images/README/romm.png)
 * [oxyROMon](https://github.com/alucryd/oxyromon/) oxyROMon is a cross-platform opinionated CLI ROM organizer written in Rust. Like most ROM managers, it checks ROM files against known good databases. It is designed with archiving in mind, so it only supports original and lossless ROM formats. It can, however, export in various popular lossy formats, leaving the lossless ROM files untouched. Sorting can be done in regions mode, in so-called 1G1R mode, or both. Console, computer, and arcade (WIP) systems are supported using Logiqx DAT files. The first two require No-Intro or Redump DAT files, while the latter uses MAME or FBNeo DAT files.![oxyROMon](./images/README/oxyROMon.png)
 * [Romcenter](https://www.romcenter.com/) Romcenter (RC) is a rom manager, a program with which you can manage collections of games supported by an emulator.
-* [ClrMamePro](https://mamedev.emulab.it) ‌ClrMamePro‌是一款专业的ROM管理工具，主要用于管理和验证ROM文件的完整性和一致性。
-* [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) Want to play some old or new emulator games on your couch? Adding them to steam gives you access to the steam overlay, excellent controller management, and even in home and remote streaming. Adding your emulator games manually is a huge pain, but fear not! Introducing Steam ROM Manager, the bulk game importer and artwork manager for Steam!
+* [ClrMamePro](https://mamedev.emulab.it/clrmamepro/) ‌ClrMamePro‌是一款专业的ROM管理工具，主要用于管理和验证ROM文件的完整性和一致性。![clrmame](./images/README/clrmame.png)
+* [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) Want to play some old or new emulator games on your couch? Adding them to steam gives you access to the steam overlay, excellent controller management, and even in home and remote streaming. Adding your emulator games manually is a huge pain, but fear not! Introducing Steam ROM Manager, the bulk game importer and artwork manager for Steam!![steamromm](./images/README/steamromm.png)
 
 ## Forum community
 

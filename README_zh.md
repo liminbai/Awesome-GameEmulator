@@ -17,16 +17,16 @@
 * [FCEUX](https://fceux.com) 一体化的 NES/Famicom/Dendy 模拟器。![](https://fceux.com/web/assets/ICON_1.ico)
 * [ZSNES](https://www.zsnes.com) ZSNES 是由 zsKnight 和 \_Demo\_ 编写的超级任天堂模拟器。2001 年 4 月 2 日，ZSNES 项目被 GPL 授权并向公众发布其源代码。它目前可以在 Windows、Linux、FreeBSD 和 DOS 上运行。请记住，这是一个公开测试版，所以不要指望它能在你的机器上运行。![zsnes](./images/README/ZSNES.png)
 * [Snes9x](http://www.snes9x.com/) Snes9x 是一个便携的、免费的超级任天堂娱乐系统 (SNES) 模拟器。它基本上允许你在 PC 或工作站上玩大多数为 SNES 和超级任天堂游戏系统设计的游戏；其中包括一些仅在日本发布的真正宝石。![snes9x](./images/README/snes9x-logo.png)
-* [Desmume](http://desmume.org/) Nintendo DS 模拟器。
-* [Project64](https://www.pj64-emu.com) 让你的经典 N64 游戏焕发新生。![winkawask](./images/README/hdr_logo.png)
+* [Desmume](http://desmume.org/) Nintendo DS模拟器。
+* [Project64](https://www.pj64-emu.com) 让你的经典N64游戏焕发新生。![winkawask](./images/README/hdr_logo.png)
 * [Dolphin](https://cn.dolphin-emu.org/) 是一款对应任天堂游戏主机 **GameCube** 和 **Wii** 的模拟器。它可以让电脑玩家以**全高清** (1080p) 画质体验这两款主机的游戏，还具有兼容电脑手柄、加速、多人联网等增强功能。![dolphin](./images/README/dolphin.png)
-* [Cemu](https://cemu.info) 用于在 PC 上模拟 Wii U 游戏和应用程序的软件。![cemu](https://cemu.info/favicon.ico)
-* [Yuzu](https://yuzu-emulator.net) Yuzu是一款开源模拟器，能让您在诸如 Windows、Android 和 Linux 等平台上玩任天堂 Switch 游戏。![Yuzu](./images/README/Yuzu.png)
-* [Ryujinx](https://ryujinx-emulator.com) Ryujinx 是一款适用于 Windows、Mac 和 Linux 设备的开源任天堂 Switch 游戏机模拟器。![Ryujinx](./images/README/ryujinx.png)
-* [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance 是一个开源的 Game Boy Advance (GBA) 模拟器，适用于 Windows、Mac、Linux、Android 和 IOS 设备。
-* [No$GBA](https://www.nogba.com) 适用于 Windows 的 GBA 和 Nintendo DS 模拟器。
+* [Cemu](https://cemu.info) 用于在PC上模拟 Wii U 游戏和应用程序的软件。![cemu](https://cemu.info/favicon.ico)
+* [Yuzu](https://yuzu-emulator.net) Yuzu是一款开源模拟器，能让您在诸如Windows、Android和Linux 等平台上玩任天堂Switch游戏。![Yuzu](./images/README/Yuzu.png)
+* [Ryujinx](https://ryujinx-emulator.com) Ryujinx 是一款适用于 Windows、Mac和Linux设备的开源任天堂Switch游戏机模拟器。![Ryujinx](./images/README/ryujinx.png)
+* [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance是一个开源的Game Boy Advance (GBA) 模拟器，适用于 Windows、Mac、Linux、Android 和 IOS 设备。![cropped](./images/README/cropped.png)
+* [No$GBA](https://www.nogba.com) 适用于 Windows 的 GBA 和 Nintendo DS 模拟器。![nogba](./images/README/nogba.png)
 * ### Xbox 模拟器
-* [Xenia](https://xbox360emulator.com) Xenia 是一个免费的开源 Xbox 360 模拟器，用 C++ 编写，适用于 Windows 和 Linux。还有一个非官方版本移植到 Android。
+* [Xenia](https://xbox360emulator.com) Xenia 是一个免费的开源 Xbox 360 模拟器，用 C++ 编写，适用于 Windows 和 Linux。还有一个非官方版本移植到 Android。![xbox360](./images/README/xbox360.png)
 
 ### 索尼模拟器
 
@@ -40,14 +40,14 @@
 ### 世嘉模拟器
 
 * [Gens](http://gens.me/) 世嘉 MD 模拟器。![gens](./images/README/genslogo.png)
-* [Yabause](http://yabause.org) Yabause 是一个 Sega Saturn 模拟器，遵循 GNU GPL 许可。它目前可以在 FreeBSD、GNU/Linux、Mac OS X、Windows 和 Dreamcast 上运行。
+* [Yabause](http://yabause.org) Yabause 是一个 Sega Saturn 模拟器，遵循 GNU GPL 许可。它目前可以在 FreeBSD、GNU/Linux、Mac OS X、Windows 和 Dreamcast 上运行。![yabause](./images/README/yabause.jpg)
 * [Demul](http://demul.emulation64.com/) Sega Dreamcast (DC) 模拟器。![demul](./images/README/Demul.png)
 
 ## 模拟器集成 UI
 
 * [OpenEmu](https://openemu.org) OpenEmu 将改变视频游戏模拟的世界。一次一个控制台...![openemul](./images/README/OpenEmu.png)
 * [Pegasus](https://pegasus-frontend.org) Pegasus 是一个跨平台、可定制的图形前端，用于启动模拟器和管理你的游戏收藏。Pegasus 是一个图形前端，用于浏览你的游戏库并从同一位置启动各种模拟器。它专注于可定制性、跨平台支持（包括嵌入式）和高性能。![pegasus](./images/README/Pegasus.png)
-* [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk 是一个用 C# 编写的多系统模拟器。除了为休闲玩家提供的生活质量功能外，它还具有录制/回放和调试工具，使其成为 TASers（工具辅助速度跑者）的首选。
+* [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk 是一个用 C# 编写的多系统模拟器。除了为休闲玩家提供的生活质量功能外，它还具有录制/回放和调试工具，使其成为 TASers（工具辅助速度跑者）的首选。![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com) RetroArch 是一个用于模拟器、游戏引擎和媒体播放器的前端。![retroarch](./images/README/retroarch.png)
 * [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏 ROM 管理软件。![simui](./images/README/simui.png)
 
@@ -56,7 +56,7 @@
 * [Batocera](https://batocera.org) Batocera.linux 是一个开源且完全免费的复古游戏发行版，可以复制到 USB 闪存盘或 SD 卡上，旨在在游戏过程中或永久地将任何计算机/纳米计算机变成游戏控制台。![batocera](./images/README/batocera.png)
 * [Lakka](https://www.lakka.tv) Lakka 是一个轻量级的 Linux 发行版，可以将小型计算机转变为完整的复古游戏控制台。![lakka](./images/README/lakka.jpg)
 * [EmuELEC 中文](https://www.emuelec.cn) 适用于 Amlogic 设备的复古模拟。基于 [CoreELEC](https://github.com/CoreELEC/CoreELEC) 和 [Lakka](https://github.com/libretro/Lakka-LibreELEC)，并结合了 [Batocera](https://github.com/batocera-linux/batocera.linux) 的一些内容。我只是将它们与 [Batocera-Emulationstation](https://github.com/batocera-linux/batocera-emulationstation) 和一些独立模拟器（[Advancemame](https://github.com/amadvance/advancemame)、[PPSSPP](https://github.com/hrydgard/ppsspp)、[Reicast](https://github.com/reicast/reicast-emulator)、[Amiberry](https://github.com/midwan/amiberry) 等）结合在一起。![emuelec](./images/README/EmuELEC.png)
-* [Recalbox](https://www.recalbox.com) Recalbox Home Recalbox RGB JAMMA 创建你的 Recalbox 1 博客 Recalbox RGB JAMMA 和 DUAL 回到我们的新商店！立即获取你的！前往商店 全能复古...
+* [Recalbox](https://www.recalbox.com) 重玩你童年时代所有的游戏机、街机和电脑。![recalbox](./images/README/recalbox.png)
 
 ## 游戏 ROM
 
@@ -80,8 +80,8 @@
 * [RomM](https://github.com/rommapp/romm) RomM (ROM Manager) 允许你通过干净和响应迅速的界面扫描、丰富、浏览和玩你的游戏收藏。支持多个平台、各种命名方案和自定义标签，RomM 是任何在模拟器上玩游戏的人必备的工具。![romm](./images/README/romm.png)
 * [oxyROMon](https://github.com/alucryd/oxyromon/) oxyROMon 是一个用 Rust 编写的跨平台意见化 CLI ROM 组织器。像大多数 ROM 管理器一样，它根据已知的良好数据库检查 ROM 文件。它是为归档设计的，因此只支持原始和无损的 ROM 格式。然而，它可以以各种流行的有损格式导出，保持无损的 ROM 文件不变。排序可以在区域模式下进行，也可以在所谓的 1G1R 模式下进行，或者两者兼而有之。使用 Logiqx DAT 文件支持控制台、计算机和街机（WIP）系统。前两个需要 No-Intro 或 Redump DAT 文件，而后者使用 MAME 或 FBNeo DAT 文件。![oxyROMon](./images/README/oxyROMon.png)
 * [Romcenter](https://www.romcenter.com/) Romcenter (RC) 是一个 ROM 管理器，一个可以用来管理模拟器支持的游戏集合的程序。
-* [ClrMamePro](https://mamedev.emulab.it) ClrMamePro 是一个专业的 ROM 管理工具，主要用于管理和验证 ROM 文件的完整性和一致性。
-* [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) 想在沙发上玩一些旧的或新的模拟器游戏吗？将它们添加到 Steam 中可以让你访问 Steam 覆盖、出色的控制器管理，甚至是家庭和远程流媒体。手动添加你的模拟器游戏是一件非常麻烦的事情，但不用担心！介绍 Steam ROM Manager，这是一个用于 Steam 的批量游戏导入器和艺术品管理器！
+* [ClrMamePro](https://mamedev.emulab.it/clrmamepro/) ClrMamePro 是一个专业的 ROM 管理工具，主要用于管理和验证 ROM 文件的完整性和一致性。![clrmame](./images/README/clrmame.png)
+* [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) 想在沙发上玩一些老游戏或新游戏的模拟器版本吗？将它们添加到Steam中，你可以使用Steam的悬浮界面、出色的控制器管理功能，甚至还能实现家庭内和远程串流功能。不过，手动将模拟器游戏添加到Steam中会非常麻烦。别担心！现在介绍一款名为 Steam ROM Manager 的工具，它是一款批量游戏导入器和游戏封面管理器，专为Steam设计！![steamromm](./images/README/steamromm.png)
 
 ## 论坛社区
 
