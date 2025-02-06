@@ -2,7 +2,7 @@
 
 向经典致敬，向在模拟领域做出贡献的杰出个人致敬。
 
-English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/main/README_zh.md)
+[English](https://github.com/liminbai/awesome-GameEmulator/blob/main/README.md) | 简体中文
 
 ## 模拟器
 
