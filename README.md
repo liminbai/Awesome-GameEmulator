@@ -64,7 +64,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 * [Mameromsfree](http://www.mameromsfree.com) This site is dedicated to everything MAME from Roms and MAME Emulators and all available for free fast download to your phone or tablet PC.  No Adverts just Cool ROMs for the MAME.![Mame4ios-icon](./images/README/Mame4ios-icon.jpg)
 * [Gamulator](https://www.gamulator.com) Emulators&Roms download![gamulator](./images/README/gamulator.png)
-* [Planetemu](https://www.planetemu.net) Emulators&Roms download
+* [Planetemu](https://www.planetemu.net) Emulators&Roms download![planetemu](./images/README/planetemu.png)
 * [Mobygames](https://www.mobygames.com) Roms Resources summary![mobygames](./images/README/mobygames.png)
 * [Romsdownload](https://romsdownload.net) There are lot of ROM  games and  Emulators available on the RomsDownload.net. You can spend a lot of time looking for them, or you can simply find anything that you need on our website. The most popular games such as: Super Mario, Pokemon, Contra, Zelda, Crash Bandicoot, Tekken 3, God of War, Grand Theft Auto, Monster Hunter and respective emulators for Nintendo, PS1, PS2, PSP, Wii, GameCube, GBA can be easily downloaded on our website. Grab your best friends, two joysticks and prepare for your adventure in the past with our cool retro games! We will provide you with the big collection of emulators and the most popular roms for downloads. Whether you want to play games on your PC, tablet or mobile device, we have roms for android, iOS and PC as well as emulators.Best video game consoles Emulator software.![omsdownload](./images/README/omsdownload.png)
 * [Romsfun](https://romsfun.com) Download over 50.000 classic and modern games for free. We share the full ROM and ISO of the latest Nintendo and Playstation platforms. Here you can download Redump and No-Intro validated ROMs for free. In addition, we also have some Pokemon hacking games, Mods.![romsfun](./images/README/romsfun.png)
@@ -92,3 +92,5 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [emu-france](http://www.emu-france.com) Créé par Avery Lee (l’auteur deVirtualDub), il s’agit d’un émulateur d’Atari 8 bits (800/800XL/130XE) disponible en 32 et 64 bits.![emu-france](./images/README/emu-france.png)
 * [EmuCR](https://www.emucr.com) Latest emulators for PS5,PS4,NS,PS3,WiiU,Wii,PS2,Xbox360,Xbox,3DS,PSV,PS,NDS,PSP,GBA,N64,DC,Arcade and many other systems.![emucr](./images/README/emucr.png)
 * [围炉Go](https://www.wlgooo.com/) 围炉Go社区有经典电脑单机，老漫画。主机、掌机汉化发布,文学心得创作,各类合集与工具分享。精品图文内容呈现，制作人们的分享创作舞台，全网最精致的典藏内容。![wlgooo](./images/README/wlgooo.png)
+* [Emulab](https://www.emulab.it/) Simulator and Simulation Software Community.![emulab](./images/README/emulab.png)
+* [Emutalk](https://www.emutalk.net/) Simulator and Simulation Software Community.![emutalk](./images/README/emutalk.png)

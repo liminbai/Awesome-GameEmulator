@@ -62,7 +62,7 @@
 
 * [Mameromsfree](http://www.mameromsfree.com) 这个网站专门提供所有 MAME 的 ROM 和 MAME 模拟器，所有这些都可以免费快速下载到你的手机或平板电脑上。没有广告，只有酷炫的 MAME ROM。![Mame4ios-icon](./images/README/Mame4ios-icon.jpg)
 * [Gamulator](https://www.gamulator.com) 模拟器和 ROM 下载！![gamulator](./images/README/gamulator.png)
-* [Planetemu](https://www.planetemu.net) 模拟器和 ROM 下载
+* [Planetemu](https://www.planetemu.net) 模拟器和 ROM 下载！![planetemu](./images/README/planetemu.png)
 * [Mobygames](https://www.mobygames.com) ROM 资源汇总！![mobygames](./images/README/mobygames.png)
 * [Romsdownload](https://romsdownload.net) 在 RomsDownload.net 上有很多 ROM 游戏和模拟器可供下载。你可以花很多时间寻找它们，或者你可以简单地在我们的网站上找到你需要的任何东西。最受欢迎的游戏如：超级马里奥、宝可梦、魂斗罗、塞尔达、古惑狼、铁拳 3、战神、侠盗猎车手、怪物猎人以及相应的模拟器，适用于任天堂、PS1、PS2、PSP、Wii、GameCube、GBA，可以轻松下载到我们的网站上。带上你最好的朋友，两个操纵杆，准备好在我们的酷炫复古游戏中进行冒险！我们将为你提供大量的模拟器和最受欢迎的 ROM 下载。无论你想在 PC、平板电脑还是移动设备上玩游戏，我们都有适用于 Android、iOS 和 PC 的 ROM 以及模拟器。最佳视频游戏控制台模拟器软件。![omsdownload](./images/README/omsdownload.png)
 * [Romsfun](https://romsfun.com) 免费下载超过 50,000 款经典和现代游戏。我们分享最新任天堂和 PlayStation 平台的完整 ROM 和 ISO。在这里你可以免费下载 Redump 和 No-Intro 验证的 ROM。此外，我们还有一些宝可梦修改游戏、Mods。![romsfun](./images/README/romsfun.png)
@@ -90,3 +90,5 @@
 * [emu-france](http://www.emu-france.com) 由 Avery Lee（VirtualDub 的作者）创建，这是一个 Atari 8 位（800/800XL/130XE）模拟器，提供 32 位和 64 位版本。![emu-france](./images/README/emu-france.png)
 * [EmuCR](https://www.emucr.com) 最新的 PS5、PS4、NS、PS3、WiiU、Wii、PS2、Xbox360、Xbox、3DS、PSV、PS、NDS、PSP、GBA、N64、DC、街机等系统的模拟器。![emucr](./images/README/emucr.png)
 * [围炉Go](https://www.wlgooo.com/) 围炉Go社区有经典电脑单机，老漫画。主机、掌机汉化发布,文学心得创作,各类合集与工具分享。精品图文内容呈现，制作人们的分享创作舞台，全网最精致的典藏内容。![wlgooo](./images/README/wlgooo.png)
+* [Emulab](https://www.emulab.it/) 模拟器、模拟软件交流社区。![emulab](./images/README/emulab.png)
+* [Emutalk](https://www.emutalk.net/) 模拟器、模拟软件交流社区。![emutalk](./images/README/emutalk.png)
