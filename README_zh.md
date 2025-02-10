@@ -50,6 +50,7 @@
 * [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk 是一个用 C# 编写的多系统模拟器。除了为休闲玩家提供的生活质量功能外，它还具有录制/回放和调试工具，使其成为 TASers（工具辅助速度跑者）的首选。![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com) RetroArch 是一个用于模拟器、游戏引擎和媒体播放器的前端。![retroarch](./images/README/retroarch.png)
 * [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏 ROM 管理软件。![simui](./images/README/simui.png)
+* [EmulationStation](https://emulationstation.org) 一个图形化和可主题的模拟器前端，允许您在一个地方访问所有您喜欢的游戏。![simui](./images/README/EmulationStation.png)
 
 ## 模拟器集成系统
 
@@ -57,6 +58,7 @@
 * [Lakka](https://www.lakka.tv) Lakka 是一个轻量级的 Linux 发行版，可以将小型计算机转变为完整的复古游戏控制台。![lakka](./images/README/lakka.jpg)
 * [EmuELEC 中文](https://www.emuelec.cn) 适用于 Amlogic 设备的复古模拟。基于 [CoreELEC](https://github.com/CoreELEC/CoreELEC) 和 [Lakka](https://github.com/libretro/Lakka-LibreELEC)，并结合了 [Batocera](https://github.com/batocera-linux/batocera.linux) 的一些内容。我只是将它们与 [Batocera-Emulationstation](https://github.com/batocera-linux/batocera-emulationstation) 和一些独立模拟器（[Advancemame](https://github.com/amadvance/advancemame)、[PPSSPP](https://github.com/hrydgard/ppsspp)、[Reicast](https://github.com/reicast/reicast-emulator)、[Amiberry](https://github.com/midwan/amiberry) 等）结合在一起。![emuelec](./images/README/EmuELEC.png)
 * [Recalbox](https://www.recalbox.com) 重玩你童年时代所有的游戏机、街机和电脑。![recalbox](./images/README/recalbox.png)
+* [RetroPie](https://retropie.org.uk) RetroPie允许你把你的树莓派、ODroid C1/C2或PC变成一个复古的游戏机。![recalbox](./images/README/RetroPie.png)
 
 ## 游戏 ROM
 
@@ -74,6 +76,7 @@
 * [RomWorld](https://www.romworldonline.com) 欢迎来到 ROM World。一个专门提供 snes roms 和其他系统的 roms 以及模拟的免费网站。我们为用户提供许多免费的 snes roms 下载。我们还提供 gba、世嘉 MD、世嘉 MS、世嘉 Genesis、MAME、Nintendo DS 和 N64 的 roms。此外，我们还提供模拟器供你玩这些 roms。![snes-roms](./images/README/snes-roms.png)
 * [WoWroms](https://wowroms.com) 支持多语言的 WoWroms 是另一个可以完全替代 Vimm’s Lair 的网站。通过它，我们可以下载 ROM、ISO 和模拟器，适用于 PlayStation、Nintendo、MAME 和 Gameboy 等系统。![wowroms](./images/README/wowroms.png)
 * [Romspedia](https://www.romspedia.com) 免费的 ROMs 下载站。![romspedia](./images/README/romspedia.png)
+* [Emurom](https://emurom.net) 免费的模拟器与ROMs 下载站。![emurom](./images/README/Emurom.png)
 
 ## ROM 管理器
 

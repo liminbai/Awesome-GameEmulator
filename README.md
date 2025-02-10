@@ -52,6 +52,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk is a multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers (Tool-Assisted Speedrunners).![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.![retroarch](./images/README/retroarch.png)
 * [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
+* [EmulationStation](https://emulationstation.org) A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!![simui](./images/README/EmulationStation.png)
 
 ## Emulator integrated system
 
@@ -59,6 +60,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Lakka](https://www.lakka.tv) Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.![lakka](./images/README/lakka.jpg)
 * [EmuELEC](https://github.com/EmuELEC/EmuELEC) Retro emulation for Amlogic devices. Based on [CoreELEC](https://github.com/CoreELEC/CoreELEC) and [Lakka](https://github.com/libretro/Lakka-LibreELEC) with tidbits from [Batocera](https://github.com/batocera-linux/batocera.linux). I just combine them with [Batocera-Emulationstation](https://github.com/batocera-linux/batocera-emulationstation) and some standalone emulators ([Advancemame](https://github.com/amadvance/advancemame), [PPSSPP](https://github.com/hrydgard/ppsspp), [Reicast](https://github.com/reicast/reicast-emulator), [Amiberry](https://github.com/midwan/amiberry) and others).![emuelec](./images/README/EmuELEC.png)
 * [Recalbox](https://www.recalbox.com) Replay **all the consoles, arcades, and computers** of your childhood.![recalbox](./images/README/recalbox.png)
+* [RetroPie](https://retropie.org.uk) RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, EmulationStation, RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up. For power users it also provides a large variety of configuration tools to customise the system as you want.![recalbox](./images/README/RetroPie.png)
 
 ## GameROMS
 
@@ -76,6 +78,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [RomWorld](https://www.romworldonline.com) Welcome to ROM World. A website dedicated to **snes roms** and roms for other systems as well as emulation. We have many snes roms available for our users to download absolutely free. We also have roms for gba, sega mega drive, sega master system, sega genesis, mame, Nintendo DS and N64. In addition we also have the emulators for you to play the roms on.![snes-roms](./images/README/snes-roms.png)
 * [WoWroms](https://wowroms.com) The multilanguage-supported WoWroms is another website that can replace Vimm’s Lair completely. With it, we can download ROMs, ISOs, and emulators for systems like Playstation, Nintendo, MAME, and Gameboy.![wowroms](./images/README/wowroms.png)
 * [Romspedia](https://www.romspedia.com) Free ROMs Download for Android, PC, Mac or iPhone.![romspedia](./images/README/romspedia.png)
+* [Emurom](https://emurom.net) Arcade and Console ROMs Emulation.![emurom](./images/README/Emurom.png)
 
 ## ROM Manager
 
