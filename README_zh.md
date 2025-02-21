@@ -76,7 +76,7 @@
 * [RomWorld](https://www.romworldonline.com) 欢迎来到 ROM World。一个专门提供 snes roms 和其他系统的 roms 以及模拟的免费网站。我们为用户提供许多免费的 snes roms 下载。我们还提供 gba、世嘉 MD、世嘉 MS、世嘉 Genesis、MAME、Nintendo DS 和 N64 的 roms。此外，我们还提供模拟器供你玩这些 roms。![snes-roms](./images/README/snes-roms.png)
 * [WoWroms](https://wowroms.com) 支持多语言的 WoWroms 是另一个可以完全替代 Vimm’s Lair 的网站。通过它，我们可以下载 ROM、ISO 和模拟器，适用于 PlayStation、Nintendo、MAME 和 Gameboy 等系统。![wowroms](./images/README/wowroms.png)
 * [Romspedia](https://www.romspedia.com) 免费的 ROMs 下载站。![romspedia](./images/README/romspedia.png)
-* [Emurom](https://emurom.net) 免费的模拟器与ROMs 下载站。![emurom](./images/README/Emurom.png)
+* [Emurom](https://emurom.net) 免费的模拟器与ROMs 下载站。![emurom](./images/README/emurom.png)
 
 ## ROM 管理器
 
