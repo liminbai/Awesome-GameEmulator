@@ -77,6 +77,7 @@
 * [WoWroms](https://wowroms.com) 支持多语言的 WoWroms 是另一个可以完全替代 Vimm’s Lair 的网站。通过它，我们可以下载 ROM、ISO 和模拟器，适用于 PlayStation、Nintendo、MAME 和 Gameboy 等系统。![wowroms](./images/README/wowroms.png)
 * [Romspedia](https://www.romspedia.com) 免费的 ROMs 下载站。![romspedia](./images/README/romspedia.png)
 * [Emurom](https://emurom.net) 免费的模拟器与ROMs 下载站。![emurom](./images/README/emurom.png)
+* [Roms2000](https://roms2000.com) 欢迎来到我们的复古游戏 ROM 下载页面。在这里，您将能找到适用于不同系统的各类复古 ROM 文件，您可以下载这些文件以便在个人电脑和移动设备上畅玩您喜爱的游戏。![rom2000](./images/README/roms2000.png)
 
 ## ROM 管理器
 
@@ -95,3 +96,4 @@
 * [围炉Go](https://www.wlgooo.com/) 围炉Go社区有经典电脑单机，老漫画。主机、掌机汉化发布,文学心得创作,各类合集与工具分享。精品图文内容呈现，制作人们的分享创作舞台，全网最精致的典藏内容。![wlgooo](./images/README/wlgooo.png)
 * [Emulab](https://www.emulab.it/) 模拟器、模拟软件交流社区。![emulab](./images/README/emulab.png)
 * [Emutalk](https://www.emutalk.net/) 模拟器、模拟软件交流社区。![emutalk](./images/README/emutalk.png)
+* [Freeemulator](https://freeemulator.com) 免费的游戏模拟器收集和下载站。![free-emulator](./images/README/free-emulator.png)

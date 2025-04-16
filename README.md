@@ -6,31 +6,63 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 ## Emulator
 
-### Arcade emulator
+### Arcade Emulators
 
 * [MAME](https://www.mamedev.org/) MAME is a multi-purpose emulation framework.![MAME](https://www.mamedev.org/_include/img/logo-mame-small-gradient.svg)
 * [WinKawaks](https://www.kawaks.org) Kawaks, The BEST arcade game emulator for Capcom and NeoGeo games. When it released, the emulation enthusiast prefers Kawaks. Thank you guys!![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels, and joysticks.![tenknoparrot](./images/README/teknoparrot-logo-new.png)
 
-### Nintendo emulator
+### Nintendo Emulators
+
+#### Nintendo NES Emulators
 
 * [FCEUX](https://fceux.com) The all in one NES/Famicom/Dendy Emulator.![](https://fceux.com/web/assets/ICON_1.ico)
+* [Jnes](https://www.jabosoft.com/jnes) Jnes is an emulator for the original 8-bit Nintendo Entertainment System (NES) with an enjoyable and intuitive user interface which has been translated into 20 languages. Whether you are looking to instantly save your game progress or record a movie for friends you'll find it here. Compatibility tends to focus on North American and European games, although there is support for many popular Japanese games.![jnes](./images/README/jnes.png)
+* [VirtuaNES](http://virtuanes.s1.xrea.com/) VirtuaNES is Famicom/NES emulator for Win32 Programmed by Norix.
+* [Nestopia](https://nestopia.sourceforge.net) A very good FC Emulator.![jnes](./images/README/nestopia.png)
+* [Nintendulator](https://www.qmtpro.com/~nes/nintendulator/) Nintendulator is an open source Win32 NES emulator written in C++.
+
+#### Super Nintendo Emulators
+
 * [ZSNES](https://www.zsnes.com) ZSNES is a Super Nintendo emulator programmed by zsKnight and \_Demo\_. On April 2, 2001 the ZSNES project was GPL'ed and its source released to the public. It currently runs on Windows, Linux, FreeBSD, and DOS. Remember that this is a public beta so don't expect this to run on your machine.![zsnes](./images/README/ZSNES.png)
 * [Snes9x](http://www.snes9x.com/) Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems on your PC or Workstation; which includes some real gems that were only ever released in Japan.![snes9x](./images/README/snes9x-logo.png)
-* [Desmume](http://desmume.org/) Nintendo DS Emulator.
+
+#### Nintendo 64 Emulators
+
+* [cooln64](https://cooln64.app/) CoolN64 is the fastest and most accurate N64 emulator. ![cooln64](./images/README/cooln64.png)
 * [Project64](https://www.pj64-emu.com) Breathe new life into your favourite retro N64 games with Project64.![winkawask](./images/README/hdr_logo.png)
+* [Mega64](https://mega64.com/) Another fan-favorite, the MegaN64 is an upgrade of the Mupen64+, and over 900,000 Android users enjoy it every month judging by all of the positive reviews that it has.![winkawask](./images/README/mega64.jpg)
+
+#### Nintendo WII&WII U Emulators
+
 * [Dolphin](https://dolphin-emu.org/) is an emulator for two recent Nintendo video game consoles: the **GameCube** and the **Wii**. It allows PC gamers to enjoy games for these two consoles in **full HD** (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more!![dolphin](./images/README/dolphin.png)
 * [Cemu](https://cemu.info) Software to emulate Wii U games and applications on PC.![cemu](https://cemu.info/favicon.ico)
+
+#### Nintendo Switch Emulators
+
 * [Yuzu](https://yuzu-emulator.net) is an open-source emulator that allows you to play Nintendo Switch games on platforms such as Windows, Android and Linux.![Yuzu](./images/README/Yuzu.png)
 * [Ryujinx](https://ryujinx-emulator.com) Ryujinx is an open-source Nintendo Switch emulator for Windows, Mac and Linux devices.![Ryujinx](./images/README/ryujinx.png)
-* [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.![cropped](./images/README/cropped.png)
-* [No$GBA](https://www.nogba.com) GBA and Nintendo DS Emulator for Windows.![nogba](./images/README/nogba.png)
 
-### Xbox emulator
+#### Nintendo DS Emulators
+
+* [DeSmuME](http://desmume.org/) Nintendo DS Emulator.![desmume](./images/README/desmume.jpg)
+* [No$GBA](https://www.nogba.com) GBA and Nintendo DS Emulator for Windows.![nogba](./images/README/nogba.png)
+* [ENSATA](https://www.ndsemulator.com/nintendo-ds/ensata.htm) The ensata Nintendo DS (code name NITRO) Software Emulator was developed by Nintendo IntelSys as a Debug Target for development of NITRO applications.![ensata](./images/README/ensata.png)
+* [iDeaS](https://www.ndsemulator.com/nintendo-ds/ideas.htm) New emulator development found for the NDS. Its called IDeaS which the symbolic of Ideas and DS (obviously). The second best (after DeSmuME) emu progressing so far.![ideas](./images/README/ideas.png)
+* [DUALIS](https://www.ndsemulator.com/nintendo-ds/dualis.htm) Dualis is a plugin-based DS emulator for x86/Win32 computers.![dualis](./images/README/dualis.png)
+* [DSemu](https://www.ndsemulator.com/nintendo-ds/dsemu.htm) DSEmu is an open source Nintendo DS Emulator written by Imran Nazar and released under the BSD License.![dsemu](./images/README/dsemu.png)
+
+#### Nintendo GBA Emulators
+
+* [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.![cropped](./images/README/cropped.png)
+
+
+
+### Xbox Emulators
 
 * [Xenia](https://xbox360emulator.com) Xenia is a free and open-source Xbox 360 Emulator written in C++ for Windows & Linux. An unofficial version ported to Android is also available.![xbox360](./images/README/xbox360.png)
 
-### Sony emulator
+### Sony Emulators
 
 * [ePSXe](https://www.epsxe.com) PlayStation 1 emulator.![epsxe](./images/README/right_banner.jpg)
 * [PCSX2](https://pcsx2.net) PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine that manages hardware states and system memory.![pcsx2](./images/README/pcsx2.png)
@@ -39,7 +71,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [shadPS4](https://shadps4.net) shadPS4 is an early PlayStation 4 emulator for Windows, Linux and macOS.![sps4](./images/README/SPS4.png)
 * [ppsspp](https://www.ppsspp.org) a fast and portable PSP emulator.![ppsspp](./images/README/ppsspp.png)
 
-### Sega emulator
+### Sega Emulators
 
 * [Gens](http://gens.me/) Sega MD emulator.![gens](./images/README/genslogo.png)
 * [Yabause](http://yabause.org) Yabause is a Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.![yabause](./images/README/yabause.jpg)
@@ -80,6 +112,10 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [WoWroms](https://wowroms.com) The multilanguage-supported WoWroms is another website that can replace Vimm’s Lair completely. With it, we can download ROMs, ISOs, and emulators for systems like Playstation, Nintendo, MAME, and Gameboy.![wowroms](./images/README/wowroms.png)
 * [Romspedia](https://www.romspedia.com) Free ROMs Download for Android, PC, Mac or iPhone.![romspedia](./images/README/romspedia.png)
 * [Emurom](https://emurom.net) Arcade and Console ROMs Emulation.![emurom](./images/README/emurom.png)
+* [Roms2000](https://roms2000.com) Welcome to our ROMs games download page. This is where you’ll find all types of retro ROMs for different systems that you can download so you can enjoy your favorite games on PC and mobile devices.![rom2000](./images/README/roms2000.png)
+* [KillerRoms](https://roms-download.com/) ROMS, FREE RETRO ROMS ANDROID/WINDOWS. ![rom2000](./images/README/roms-download.png)
+* [Coolrom](http://www.coolrom.eu/) CoolRom is No1 for Roms & Emulators.![rom2000](./images/README/CoolROM-01.png)
+* [RomsGames](https://www.romsgames.net/) Download Roms & Emulators.![romsgames](./images/README/logo-rg.png)
 
 ## ROM Manager
 
@@ -99,3 +135,5 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Emulab](https://www.emulab.it/) Simulator and Simulation Software Community.![emulab](./images/README/emulab.png)
 * [Emutalk](https://www.emutalk.net/) Simulator and Simulation Software Community.![emutalk](./images/README/emutalk.png)
 * [Arcadepunks](https://www.arcadepunks.com) Are you ready to dive into the golden age of [ gaming](https://www.arcadepunks.com/what-is-arcade-punks/#)? 🕹️ [ Arcade](https://www.arcadepunks.com/what-is-arcade-punks/#) Punks is your one-stop shop for everything retro gaming: from ready-to-play gaming images and [news](https://www.arcadepunks.com/category/news-web/in-the-news/), to reviews, tutorials, and emulators. Whether you’re a seasoned [retro gamer](https://www.arcadepunks.com/why-retro-gamers-love-to-home-grow/) or a curious newbie, we’ve got something for everyone!![emutalk](./images/README/ArcadePunks.png)
+* [Freeemulator](https://freeemulator.com) FREE VIDEO GAME EMULATORS ![free-emulator](./images/README/free-emulator.png)
+* [GBAtemp](https://gbatemp.net/) GBAtemp.net is an independent gaming community.![gbatemp](./images/README/gbatemp.png)
