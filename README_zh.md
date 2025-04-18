@@ -73,7 +73,6 @@
 * [Pegasus](https://pegasus-frontend.org) Pegasus 是一个跨平台、可定制的图形前端，用于启动模拟器和管理你的游戏收藏。Pegasus 是一个图形前端，用于浏览你的游戏库并从同一位置启动各种模拟器。它专注于可定制性、跨平台支持（包括嵌入式）和高性能。![pegasus](./images/README/Pegasus.png)
 * [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk 是一个用 C# 编写的多系统模拟器。除了为休闲玩家提供的生活质量功能外，它还具有录制/回放和调试工具，使其成为 TASers（工具辅助速度跑者）的首选。![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com) RetroArch 是一个用于模拟器、游戏引擎和媒体播放器的前端。![retroarch](./images/README/retroarch.png)
-* [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏 ROM 管理软件。![simui](./images/README/simui.png)
 * [EmulationStation](https://emulationstation.org) 一个图形化和可主题的模拟器前端，允许您在一个地方访问所有您喜欢的游戏。![simui](./images/README/EmulationStation.png)
 
 ## 模拟器集成系统
@@ -113,6 +112,7 @@
 * [Romcenter](https://www.romcenter.com/) Romcenter (RC) 是一个 ROM 管理器，一个可以用来管理模拟器支持的游戏集合的程序。
 * [ClrMamePro](https://mamedev.emulab.it/clrmamepro/) ClrMamePro 是一个专业的 ROM 管理工具，主要用于管理和验证 ROM 文件的完整性和一致性。![clrmame](./images/README/clrmame.png)
 * [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) 想在沙发上玩一些老游戏或新游戏的模拟器版本吗？将它们添加到Steam中，你可以使用Steam的悬浮界面、出色的控制器管理功能，甚至还能实现家庭内和远程串流功能。不过，手动将模拟器游戏添加到Steam中会非常麻烦。别担心！现在介绍一款名为 Steam ROM Manager 的工具，它是一款批量游戏导入器和游戏封面管理器，专为Steam设计！![steamromm](./images/README/steamromm.png)
+* [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
 
 ## 论坛社区
 

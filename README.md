@@ -56,8 +56,6 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 * [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.![cropped](./images/README/cropped.png)
 
-
-
 ### Xbox Emulators
 
 * [Xenia](https://xbox360emulator.com) Xenia is a free and open-source Xbox 360 Emulator written in C++ for Windows & Linux. An unofficial version ported to Android is also available.![xbox360](./images/README/xbox360.png)
@@ -83,7 +81,6 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Pegasus](https://pegasus-frontend.org) Pegasus A cross platform, customizable graphical frontend for launching emulators and managing your game collection.Pegasus is a graphical frontend for browsing your game library and launching all kinds of emulators from the same place. It's focusing on customizability, cross platform support (including embedded) and high performance.![pegasus](./images/README/Pegasus.png)
 * [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk is a multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers (Tool-Assisted Speedrunners).![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.![retroarch](./images/README/retroarch.png)
-* [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
 * [EmulationStation](https://emulationstation.org) A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!![simui](./images/README/EmulationStation.png)
 * [RetroBat](https://www.retrobat.org) **RetroBat** is a software distribution designed for emulation and to be the easiest way to enjoy your game collection on your **Windows** computer. The supplied **EmulationStation** interface is fully functional and highly customizable. You can run all your games from it and search online for visuals to enhance the presentation of your collection.![simui](./images/README/Retrobaot.png)
 
@@ -124,6 +121,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Romcenter](https://www.romcenter.com/) Romcenter (RC) is a rom manager, a program with which you can manage collections of games supported by an emulator.
 * [ClrMamePro](https://mamedev.emulab.it/clrmamepro/) ‌ClrMamePro‌是一款专业的ROM管理工具，主要用于管理和验证ROM文件的完整性和一致性。![clrmame](./images/README/clrmame.png)
 * [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) Want to play some old or new emulator games on your couch? Adding them to steam gives you access to the steam overlay, excellent controller management, and even in home and remote streaming. Adding your emulator games manually is a huge pain, but fear not! Introducing Steam ROM Manager, the bulk game importer and artwork manager for Steam!![steamromm](./images/README/steamromm.png)
+* [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
 
 ## Forum community
 
