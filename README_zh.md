@@ -14,18 +14,42 @@
 
 ### 任天堂模拟器
 
+#### 任天堂NES（FC）
+
 * [FCEUX](https://fceux.com) 一体化的 NES/Famicom/Dendy 模拟器。![](https://fceux.com/web/assets/ICON_1.ico)
+* [Jnes](https://www.jabosoft.com/jnes) Jnes是8位任天堂（NES）模拟器，具有非常友好的用户界面，已被翻译成20种语言。![jnes](./images/README/jnes.png)
+* [VirtuaNES](http://virtuanes.s1.xrea.com/) VirtuaNES是基于Win32编写的NES模拟器。
+* [Nestopia](https://nestopia.sourceforge.net) 一个非常好的NES模拟器。![jnes](./images/README/nestopia.png)
+* [Nintendulator](https://www.qmtpro.com/~nes/nintendulator/) 采用C++编写的开源NES模拟器。
+
+#### 超级任天堂
+
 * [ZSNES](https://www.zsnes.com) ZSNES 是由 zsKnight 和 \_Demo\_ 编写的超级任天堂模拟器。2001 年 4 月 2 日，ZSNES 项目被 GPL 授权并向公众发布其源代码。它目前可以在 Windows、Linux、FreeBSD 和 DOS 上运行。请记住，这是一个公开测试版，所以不要指望它能在你的机器上运行。![zsnes](./images/README/ZSNES.png)
 * [Snes9x](http://www.snes9x.com/) Snes9x 是一个便携的、免费的超级任天堂娱乐系统 (SNES) 模拟器。它基本上允许你在 PC 或工作站上玩大多数为 SNES 和超级任天堂游戏系统设计的游戏；其中包括一些仅在日本发布的真正宝石。![snes9x](./images/README/snes9x-logo.png)
-* [Desmume](http://desmume.org/) Nintendo DS模拟器。
+
+#### 任天堂64
+
 * [Project64](https://www.pj64-emu.com) 让你的经典N64游戏焕发新生。![winkawask](./images/README/hdr_logo.png)
+* [cooln64](https://cooln64.app/) 运行速度最快最稳定的N64模拟器。 ![cooln64](./images/README/cooln64.png)
+* [Mega64](https://mega64.com/) Mupen64的升级版, 支持Android环境。![winkawask](./images/README/mega64.jpg)
+
+#### 任天堂WII 和 WII U
+
 * [Dolphin](https://cn.dolphin-emu.org/) 是一款对应任天堂游戏主机 **GameCube** 和 **Wii** 的模拟器。它可以让电脑玩家以**全高清** (1080p) 画质体验这两款主机的游戏，还具有兼容电脑手柄、加速、多人联网等增强功能。![dolphin](./images/README/dolphin.png)
 * [Cemu](https://cemu.info) 用于在PC上模拟 Wii U 游戏和应用程序的软件。![cemu](https://cemu.info/favicon.ico)
+
+#### 任天堂Switch
+
 * [Yuzu](https://yuzu-emulator.net) Yuzu是一款开源模拟器，能让您在诸如Windows、Android和Linux 等平台上玩任天堂Switch游戏。![Yuzu](./images/README/Yuzu.png)
 * [Ryujinx](https://ryujinx-emulator.com) Ryujinx 是一款适用于 Windows、Mac和Linux设备的开源任天堂Switch游戏机模拟器。![Ryujinx](./images/README/ryujinx.png)
+
+#### 任天堂GBA
+
 * [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance是一个开源的Game Boy Advance (GBA) 模拟器，适用于 Windows、Mac、Linux、Android 和 IOS 设备。![cropped](./images/README/cropped.png)
 * [No$GBA](https://www.nogba.com) 适用于 Windows 的 GBA 和 Nintendo DS 模拟器。![nogba](./images/README/nogba.png)
-* ### Xbox 模拟器
+
+### Xbox 模拟器
+
 * [Xenia](https://xbox360emulator.com) Xenia 是一个免费的开源 Xbox 360 模拟器，用 C++ 编写，适用于 Windows 和 Linux。还有一个非官方版本移植到 Android。![xbox360](./images/README/xbox360.png)
 
 ### 索尼模拟器
@@ -78,6 +102,9 @@
 * [Romspedia](https://www.romspedia.com) 免费的 ROMs 下载站。![romspedia](./images/README/romspedia.png)
 * [Emurom](https://emurom.net) 免费的模拟器与ROMs 下载站。![emurom](./images/README/emurom.png)
 * [Roms2000](https://roms2000.com) 欢迎来到我们的复古游戏 ROM 下载页面。在这里，您将能找到适用于不同系统的各类复古 ROM 文件，您可以下载这些文件以便在个人电脑和移动设备上畅玩您喜爱的游戏。![rom2000](./images/README/roms2000.png)
+* [KillerRoms](https://roms-download.com/) 很好很全的Rom下载站。 ![rom2000](./images/README/roms-download.png)
+* [Coolrom](http://www.coolrom.eu/) 很好很全的Rom与模拟器下载站。![rom2000](./images/README/CoolROM-01.png)
+* [RomsGames](https://www.romsgames.net/) 很好很全的Rom与模拟器下载站。![romsgames](./images/README/logo-rg.png)
 
 ## ROM 管理器
 
@@ -97,3 +124,4 @@
 * [Emulab](https://www.emulab.it/) 模拟器、模拟软件交流社区。![emulab](./images/README/emulab.png)
 * [Emutalk](https://www.emutalk.net/) 模拟器、模拟软件交流社区。![emutalk](./images/README/emutalk.png)
 * [Freeemulator](https://freeemulator.com) 免费的游戏模拟器收集和下载站。![free-emulator](./images/README/free-emulator.png)
+* [GBAtemp](https://gbatemp.net/) 非常好的一个游戏社区网站。![gbatemp](./images/README/gbatemp.png)
