@@ -9,12 +9,13 @@
 ### 街机模拟器
 
 * [MAME](https://www.mamedev.org/) MAME 是一个多用途的模拟框架。![MAME](https://www.mamedev.org/_include/img/logo-mame-small-gradient.svg)
+* [FBAP](http://fbap.1emu.net/) FB Alpha 是一个支持多平台的街机模拟器。![fbap](./images/README/fbap.png)
 * [WinKawaks](https://www.kawaks.org) Kawaks 是 Capcom 和 NeoGeo 游戏的最佳街机模拟器。发布时，模拟爱好者更喜欢 Kawaks。感谢你们！![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot 是一个软件包，允许你在自己的硬件上运行选定的基于 PC 的街机游戏，完全支持键盘和鼠标控制、游戏手柄、方向盘和操纵杆。![tenknoparrot](./images/README/teknoparrot-logo-new.png)
 
 ### 任天堂模拟器
 
-#### 任天堂NES（FC）
+#### 任天堂 NES（FC）
 
 * [FCEUX](https://fceux.com) 一体化的 NES/Famicom/Dendy 模拟器。![](https://fceux.com/web/assets/ICON_1.ico)
 * [Jnes](https://www.jabosoft.com/jnes) Jnes是8位任天堂（NES）模拟器，具有非常友好的用户界面，已被翻译成20种语言。![jnes](./images/README/jnes.png)
@@ -27,7 +28,7 @@
 * [ZSNES](https://www.zsnes.com) ZSNES 是由 zsKnight 和 \_Demo\_ 编写的超级任天堂模拟器。2001 年 4 月 2 日，ZSNES 项目被 GPL 授权并向公众发布其源代码。它目前可以在 Windows、Linux、FreeBSD 和 DOS 上运行。请记住，这是一个公开测试版，所以不要指望它能在你的机器上运行。![zsnes](./images/README/ZSNES.png)
 * [Snes9x](http://www.snes9x.com/) Snes9x 是一个便携的、免费的超级任天堂娱乐系统 (SNES) 模拟器。它基本上允许你在 PC 或工作站上玩大多数为 SNES 和超级任天堂游戏系统设计的游戏；其中包括一些仅在日本发布的真正宝石。![snes9x](./images/README/snes9x-logo.png)
 
-#### 任天堂64
+#### 任天堂 64
 
 * [Project64](https://www.pj64-emu.com) 让你的经典N64游戏焕发新生。![winkawask](./images/README/hdr_logo.png)
 * [cooln64](https://cooln64.app/) 运行速度最快最稳定的N64模拟器。 ![cooln64](./images/README/cooln64.png)
@@ -38,15 +39,24 @@
 * [Dolphin](https://cn.dolphin-emu.org/) 是一款对应任天堂游戏主机 **GameCube** 和 **Wii** 的模拟器。它可以让电脑玩家以**全高清** (1080p) 画质体验这两款主机的游戏，还具有兼容电脑手柄、加速、多人联网等增强功能。![dolphin](./images/README/dolphin.png)
 * [Cemu](https://cemu.info) 用于在PC上模拟 Wii U 游戏和应用程序的软件。![cemu](https://cemu.info/favicon.ico)
 
-#### 任天堂Switch
+#### 任天堂 Switch
 
 * [Yuzu](https://yuzu-emulator.net) Yuzu是一款开源模拟器，能让您在诸如Windows、Android和Linux 等平台上玩任天堂Switch游戏。![Yuzu](./images/README/Yuzu.png)
 * [Ryujinx](https://ryujinx-emulator.com) Ryujinx 是一款适用于 Windows、Mac和Linux设备的开源任天堂Switch游戏机模拟器。![Ryujinx](./images/README/ryujinx.png)
 
-#### 任天堂GBA
+#### 任天堂 DS
+
+* [DeSmuME](http://desmume.org/) 有名的DS模拟器。![desmume](./images/README/desmume.jpg)
+* [No$GBA](https://www.nogba.com) GBA和DS都支持的模拟器。![nogba](./images/README/nogba.png)
+* [ENSATA](https://www.ndsemulator.com/nintendo-ds/ensata.htm) 有名的DS模拟器.![ensata](./images/README/ensata.png)
+* [iDeaS](https://www.ndsemulator.com/nintendo-ds/ideas.htm) DS模拟器。![ideas](./images/README/ideas.png)
+* [DUALIS](https://www.ndsemulator.com/nintendo-ds/dualis.htm) Windows下有名的DS模拟器。![dualis](./images/README/dualis.png)
+* [DSemu](https://www.ndsemulator.com/nintendo-ds/dsemu.htm) 开源的DS模拟器.![dsemu](./images/README/dsemu.png)
+
+#### 任天堂 GBA
 
 * [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance是一个开源的Game Boy Advance (GBA) 模拟器，适用于 Windows、Mac、Linux、Android 和 IOS 设备。![cropped](./images/README/cropped.png)
-* [No$GBA](https://www.nogba.com) 适用于 Windows 的 GBA 和 Nintendo DS 模拟器。![nogba](./images/README/nogba.png)
+* [mGBA](https://mgba.io/) 也是一款有名的GBA模拟器。![mgba](./images/README/mgba.png)
 
 ### Xbox 模拟器
 
@@ -54,17 +64,36 @@
 
 ### 索尼模拟器
 
+#### PlayStation 1
+
 * [ePSXe](https://www.epsxe.com) PlayStation 1 模拟器。![epsxe](./images/README/right_banner.jpg)
+* [PCSXR](https://ps1emulator.com/) PlayStation 1 模拟器。![pcsxr](./images/README/pcsxr.png)
+* [FPseNG](https://www.fpsece.net/) 一款支持Android的PSone模拟器。![fpse](./images/README/fpse.jpg)
+
+#### PlayStation 2
+
 * [PCSX2](https://pcsx2.net) PCSX2 是一个免费的开源 PlayStation 2 (PS2) 模拟器。其目的是模拟 PS2 的硬件，使用 MIPS CPU 解释器、重新编译器和管理硬件状态和系统内存的虚拟机的组合。![pcsx2](./images/README/pcsx2.png)
 * [AetherSX2 ](https://aethersx2.net/)是一款适用于 PlayStation 2 的模拟器，能让用户在 iOS、Android、Mac、Windows PC 和 Linux 等平台上运行 PlayStation 2 游戏。对于使用 PlayStation 2 游戏机的用户来说，无需拥有实体 PlayStation 2 游戏机即可畅玩其喜爱的游戏。![aechersx2](./images/README/aechersx2.png)
+* [Play!](https://purei.org/) 一款支持多平台的PlayStation 2 模拟器。![play](./images/README/play.png)
+
+#### PlayStation 3
+
 * [RPCS3](https://rpcs3.net) RPCS3 是一个多平台开源 Sony PlayStation 3 模拟器和调试器，用 C++ 编写，适用于 Windows、Linux、macOS 和 FreeBSD。![rpcs3](./images/README/rpcs3.jpg)
+
+#### PlayStation 4
+
 * [shadPS4](https://shadps4.net) shadPS4 是一款专为 Windows、Linux 和 macOS 系统开发的早期 PlayStation 4 主机模拟器。![sps4](./images/README/SPS4.png)
+
+#### PSP
+
 * [ppsspp](https://www.ppsspp.org) 一个快速便携的 PSP 模拟器。![ppsspp](./images/README/ppsspp.png)
+* [jpcsp](https://github.com/jpcsp/jpcsp) Java 开发的多平台 PSP 模拟器。![Jpcsp](./images/README/Jpcsplogo.jpg)
 
 ### 世嘉模拟器
 
 * [Gens](http://gens.me/) 世嘉 MD 模拟器。![gens](./images/README/genslogo.png)
-* [Yabause](http://yabause.org) Yabause 是一个 Sega Saturn 模拟器，遵循 GNU GPL 许可。它目前可以在 FreeBSD、GNU/Linux、Mac OS X、Windows 和 Dreamcast 上运行。![yabause](./images/README/yabause.jpg)
+* [Yabause](http://yabause.org) Yabause 是一个 Sega 土星模拟器，遵循 GNU GPL 许可。它目前可以在 FreeBSD、GNU/Linux、Mac OS X、Windows 和 Dreamcast 上运行。![yabause](./images/README/yabause.jpg)
+* [SSF](https://ssftribute.csdprojects.co.uk) Sega 土星模拟器.![ssf](./images/README/clubpic.png)
 * [Demul](http://demul.emulation64.com/) Sega Dreamcast (DC) 模拟器。![demul](./images/README/Demul.png)
 
 ## 模拟器集成 UI
@@ -74,6 +103,10 @@
 * [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk 是一个用 C# 编写的多系统模拟器。除了为休闲玩家提供的生活质量功能外，它还具有录制/回放和调试工具，使其成为 TASers（工具辅助速度跑者）的首选。![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com) RetroArch 是一个用于模拟器、游戏引擎和媒体播放器的前端。![retroarch](./images/README/retroarch.png)
 * [EmulationStation](https://emulationstation.org) 一个图形化和可主题的模拟器前端，允许您在一个地方访问所有您喜欢的游戏。![simui](./images/README/EmulationStation.png)
+* [Higan](https://github.com/higan-emu/higan)  多模拟器集成系统，包括了: Famicom, Famicom Disk System, Super Famicom, Super Game Boy, Game Boy, Game Boy Color, Game Boy Advance, Game Boy Player, SG-1000, SC-3000, Master System, Game Gear, Mega Drive, Mega CD, PC Engine, SuperGrafx, MSX, MSX2, ColecoVision, Neo Geo Pocket, Neo Geo Pocket Color, WonderSwan, WonderSwan Color, SwanCrystal, Pocket Challenge V2.![higan](./images/README/higan-logo.png)
+* [ARES](https://ares-emu.net/) 很好的多模拟器集成环境，支持得平台很多。![ares](./images/README/ares.png)
+* [BizHawk](https://ares-emu.net/) 很好的多模拟器集成环境。![BizHawk](./images/README/tasvideos.png)
+* [Mednafen](https://mednafen.github.io/) 很好的多模拟器集成环境，通过命令调用其他模拟器。![Mednafen](./images/README/mednafen.png)
 
 ## 模拟器集成系统
 

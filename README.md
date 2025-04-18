@@ -9,6 +9,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 ### Arcade Emulators
 
 * [MAME](https://www.mamedev.org/) MAME is a multi-purpose emulation framework.![MAME](https://www.mamedev.org/_include/img/logo-mame-small-gradient.svg)
+* [FBAP](http://fbap.1emu.net/) FB Alpha is an arcade emulator.![fbap](./images/README/fbap.png)
 * [WinKawaks](https://www.kawaks.org) Kawaks, The BEST arcade game emulator for Capcom and NeoGeo games. When it released, the emulation enthusiast prefers Kawaks. Thank you guys!![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels, and joysticks.![tenknoparrot](./images/README/teknoparrot-logo-new.png)
 
@@ -55,6 +56,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 #### Nintendo GBA Emulators
 
 * [Visual Boy Advance | GBA Emulator](https://visualboyadvance.org) Visual Boy Advance is an open-source Game Boy Advance (GBA) emulator for Windows, Mac, Linux, Android and IOS devices.![cropped](./images/README/cropped.png)
+* [mGBA](https://mgba.io/) mGBA Game Boy Advance Emulator.![mgba](./images/README/mgba.png)
 
 ### Xbox Emulators
 
@@ -62,17 +64,36 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 ### Sony Emulators
 
+#### PlayStation 1
+
 * [ePSXe](https://www.epsxe.com) PlayStation 1 emulator.![epsxe](./images/README/right_banner.jpg)
+* [PCSXR](https://ps1emulator.com/) PlayStation 1 Emulator.![pcsxr](./images/README/pcsxr.png)
+* [FPseNG](https://www.fpsece.net/) FPse64 is the best PSone emulator for Android devices.![fpse](./images/README/fpse.jpg)
+
+#### PlayStation 2
+
 * [PCSX2](https://pcsx2.net) PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine that manages hardware states and system memory.![pcsx2](./images/README/pcsx2.png)
 * [AetherSX2 ](https://aethersx2.net/)is a PlayStation 2 emulator that enables users to play PS2 games on iOS, Android, Mac, Windows PC, Linux users can play their favorite games from the PS2 console without the need for a physical PS2 console.![aechersx2](./images/README/aechersx2.png)
+* [Play!](https://purei.org/) Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS & web browser platforms.![play](./images/README/play.png)
+
+#### PlayStation 3
+
 * [RPCS3](https://rpcs3.net) RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.![rpcs3](./images/README/rpcs3.jpg)
+
+#### PlayStation 4
+
 * [shadPS4](https://shadps4.net) shadPS4 is an early PlayStation 4 emulator for Windows, Linux and macOS.![sps4](./images/README/SPS4.png)
+
+#### PSP
+
 * [ppsspp](https://www.ppsspp.org) a fast and portable PSP emulator.![ppsspp](./images/README/ppsspp.png)
+* [jpcsp](https://github.com/jpcsp/jpcsp) Java PSP Emulator.![Jpcsp](./images/README/Jpcsplogo.jpg)
 
 ### Sega Emulators
 
 * [Gens](http://gens.me/) Sega MD emulator.![gens](./images/README/genslogo.png)
 * [Yabause](http://yabause.org) Yabause is a Sega Saturn emulator under GNU GPL. It currently runs on FreeBSD, GNU/Linux, Mac OS X, Windows and Dreamcast.![yabause](./images/README/yabause.jpg)
+* [SSF](https://ssftribute.csdprojects.co.uk) Sega Saturn emulator.![ssf](./images/README/clubpic.png)
 * [Demul](http://demul.emulation64.com/) *Sega* Dreamcat(DC) emulator.![demul](./images/README/Demul.png)
 
 ## Emulator integrated UI
@@ -83,6 +104,10 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.![retroarch](./images/README/retroarch.png)
 * [EmulationStation](https://emulationstation.org) A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!![simui](./images/README/EmulationStation.png)
 * [RetroBat](https://www.retrobat.org) **RetroBat** is a software distribution designed for emulation and to be the easiest way to enjoy your game collection on your **Windows** computer. The supplied **EmulationStation** interface is fully functional and highly customizable. You can run all your games from it and search online for visuals to enhance the presentation of your collection.![simui](./images/README/Retrobaot.png)
+* [Higan](https://github.com/higan-emu/higan)  It currently emulates the following systems: Famicom, Famicom Disk System, Super Famicom, Super Game Boy, Game Boy, Game Boy Color, Game Boy Advance, Game Boy Player, SG-1000, SC-3000, Master System, Game Gear, Mega Drive, Mega CD, PC Engine, SuperGrafx, MSX, MSX2, ColecoVision, Neo Geo Pocket, Neo Geo Pocket Color, WonderSwan, WonderSwan Color, SwanCrystal, Pocket Challenge V2.![higan](./images/README/higan-logo.png)
+* [ARES](https://ares-emu.net/) ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.![ares](./images/README/ares.png)
+* [BizHawk](https://ares-emu.net/) BizHawk is a multi-platform emulator with full rerecording support and Lua scripting.![BizHawk](./images/README/tasvideos.png)
+* [Mednafen](https://mednafen.github.io/) Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.![Mednafen](./images/README/mednafen.png)
 
 ## Emulator integrated system
 
