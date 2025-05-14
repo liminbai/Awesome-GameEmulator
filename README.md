@@ -138,6 +138,9 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [KillerRoms](https://roms-download.com/) ROMS, FREE RETRO ROMS ANDROID/WINDOWS. ![rom2000](./images/README/roms-download.png)
 * [Coolrom](http://www.coolrom.eu/) CoolRom is No1 for Roms & Emulators.![rom2000](./images/README/CoolROM-01.png)
 * [RomsGames](https://www.romsgames.net/) Download Roms & Emulators.![romsgames](./images/README/logo-rg.png)
+* [Romsdl](https://romsdl.com/) Have a look at the biggest collection of retro console games and get the chance to play the games from your childhood. Select the console, download your favorite cartridge games and start playing them on your phone or computer using the variety of emulators offered at RomsDL.![romsdl](./images/README/romsdl.png)
+* [ROMHustler](https://romhustler.org) Download Roms & Emulators.![romsdl](./images/README/ROMHustler.png)
+* [nsw2u](https://nsw2u.com/) Download Roms & Emulators.![nsw2u](./images/README/nsw2u.png)
 
 ## ROM Manager
 

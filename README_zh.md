@@ -1,6 +1,6 @@
 # 超棒的游戏模拟器资源
 
-向经典致敬，向在模拟领域做出贡献的杰出个人致敬。
+向经典致敬，向在模拟领域做出贡献的杰出个人致敬。国内注意一下，有好些Rom网站在海外，需要梯子才能出去。
 
 [English](https://github.com/liminbai/awesome-GameEmulator/blob/main/README.md) | 简体中文
 
@@ -137,6 +137,9 @@
 * [KillerRoms](https://roms-download.com/) 很好很全的Rom下载站。 ![rom2000](./images/README/roms-download.png)
 * [Coolrom](http://www.coolrom.eu/) 很好很全的Rom与模拟器下载站。![rom2000](./images/README/CoolROM-01.png)
 * [RomsGames](https://www.romsgames.net/) 很好很全的Rom与模拟器下载站。![romsgames](./images/README/logo-rg.png)
+* [Romsdl](https://romsdl.com/) 很好很全的Rom与模拟器下载站。![romsdl](./images/README/romsdl.png)
+* [ROMHustler](https://romhustler.org) 很好很全的Rom与模拟器下载站。![romsdl](./images/README/ROMHustler.png)
+* [nsw2u](https://nsw2u.com/) 很好很全的Rom与模拟器下载站。![nsw2u](./images/README/nsw2u.png)
 
 ## ROM 管理器
 
