@@ -2,6 +2,8 @@
 
 向经典致敬，向在模拟领域做出贡献的杰出个人致敬。国内注意一下，有好些Rom网站在海外，需要梯子才能出去。
 
+![home](./images/README/home.jpg)
+
 [English](https://github.com/liminbai/awesome-GameEmulator/blob/main/README.md) | 简体中文
 
 ## 模拟器
@@ -12,6 +14,7 @@
 * [FBAP](http://fbap.1emu.net/) FB Alpha 是一个支持多平台的街机模拟器。![fbap](./images/README/fbap.png)
 * [WinKawaks](https://www.kawaks.org) Kawaks 是 Capcom 和 NeoGeo 游戏的最佳街机模拟器。发布时，模拟爱好者更喜欢 Kawaks。感谢你们！![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot 是一个软件包，允许你在自己的硬件上运行选定的基于 PC 的街机游戏，完全支持键盘和鼠标控制、游戏手柄、方向盘和操纵杆。![tenknoparrot](./images/README/teknoparrot-logo-new.png)
+* [Supermodel](https://www.supermodel3.com/) Sega's Model 3街机平台，可以玩以前游戏厅内的3D的赛车。![supermodel](./images/README/supermodel.png)
 
 ### 任天堂模拟器
 
@@ -103,10 +106,12 @@
 * [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk 是一个用 C# 编写的多系统模拟器。除了为休闲玩家提供的生活质量功能外，它还具有录制/回放和调试工具，使其成为 TASers（工具辅助速度跑者）的首选。![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com) RetroArch 是一个用于模拟器、游戏引擎和媒体播放器的前端。![retroarch](./images/README/retroarch.png)
 * [EmulationStation](https://emulationstation.org) 一个图形化和可主题的模拟器前端，允许您在一个地方访问所有您喜欢的游戏。![simui](./images/README/EmulationStation.png)
+* [ES-DE](https://es-de.org/) ES-DE是ES的姊妹版，ES很久没更新，转向ES-DE持续更新。 ![ES-DE_logo](./images/README/ES-DE_logo.png)
 * [Higan](https://github.com/higan-emu/higan)  多模拟器集成系统，包括了: Famicom, Famicom Disk System, Super Famicom, Super Game Boy, Game Boy, Game Boy Color, Game Boy Advance, Game Boy Player, SG-1000, SC-3000, Master System, Game Gear, Mega Drive, Mega CD, PC Engine, SuperGrafx, MSX, MSX2, ColecoVision, Neo Geo Pocket, Neo Geo Pocket Color, WonderSwan, WonderSwan Color, SwanCrystal, Pocket Challenge V2.![higan](./images/README/higan-logo.png)
 * [ARES](https://ares-emu.net/) 很好的多模拟器集成环境，支持得平台很多。![ares](./images/README/ares.png)
 * [BizHawk](https://ares-emu.net/) 很好的多模拟器集成环境。![BizHawk](./images/README/tasvideos.png)
 * [Mednafen](https://mednafen.github.io/) 很好的多模拟器集成环境，通过命令调用其他模拟器。![Mednafen](./images/README/mednafen.png)
+* [Xiaoji](https://www.xiaoji001.com/) 一个同样爱好模拟器的国内团队搞的。我们的工作室正式成立，并命名为《小鸡工作室》。为啥叫小鸡？俺是雷布斯的脑残粉，为了向小米致敬，俺的工作室就叫小鸡啦。![xj_logo](./images/README/xj_logo.png)
 
 ## 模拟器集成系统
 
@@ -150,7 +155,7 @@
 * [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) 想在沙发上玩一些老游戏或新游戏的模拟器版本吗？将它们添加到Steam中，你可以使用Steam的悬浮界面、出色的控制器管理功能，甚至还能实现家庭内和远程串流功能。不过，手动将模拟器游戏添加到Steam中会非常麻烦。别担心！现在介绍一款名为 Steam ROM Manager 的工具，它是一款批量游戏导入器和游戏封面管理器，专为Steam设计！![steamromm](./images/README/steamromm.png)
 * [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
 
-## 论坛社区
+## 论坛社区和工具
 
 * [NesDev](https://www.nesdev.org) 一个致力于任天堂娱乐系统 (NES) 和其他复古控制台的自制游戏开发者和硬件研究者社区。![nesdev](./images/README/nesdev.png)
 * [ngemu](https://www.ngemu.com) 一个致力于所有模拟爱好者的论坛社区。加入讨论所有平台，从任天堂、微软 Xbox、索尼 PlayStation 到 PC。编码、提示、构建、规格、技巧等。![ngemu_com](./images/README/ngemu_com.png)
@@ -161,3 +166,4 @@
 * [Emutalk](https://www.emutalk.net/) 模拟器、模拟软件交流社区。![emutalk](./images/README/emutalk.png)
 * [Freeemulator](https://freeemulator.com) 免费的游戏模拟器收集和下载站。![free-emulator](./images/README/free-emulator.png)
 * [GBAtemp](https://gbatemp.net/) 非常好的一个游戏社区网站。![gbatemp](./images/README/gbatemp.png)
+* [jujuvincebros](http://jujuvincebros.fr/) 热爱游戏的两兄弟搭建的网站，也是ARRM工具下载的地方。![arrm](./images/README/arrm.png)

@@ -2,6 +2,8 @@
 
 Salute to the classics, as well as the outstanding individuals who have made contributions in the simulation field.
 
+![home](./images/README/home.jpg)
+
 English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/main/README_zh.md)
 
 ## Emulator
@@ -12,6 +14,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [FBAP](http://fbap.1emu.net/) FB Alpha is an arcade emulator.![fbap](./images/README/fbap.png)
 * [WinKawaks](https://www.kawaks.org) Kawaks, The BEST arcade game emulator for Capcom and NeoGeo games. When it released, the emulation enthusiast prefers Kawaks. Thank you guys!![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels, and joysticks.![tenknoparrot](./images/README/teknoparrot-logo-new.png)
+* [Supermodel](https://www.supermodel3.com/) Supermodel emulates Sega's Model 3 arcade platform, allowing you to play a number of ground-breaking arcade classics on your PC. It uses OpenGL and the SDL library, and can run on Windows, Linux, and Mac OS X.![supermodel](./images/README/supermodel.png)
 
 ### Nintendo Emulators
 
@@ -103,11 +106,13 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [BizHawk](https://github.com/TASEmulators/BizHawk) EmuHawk is a multi-system emulator written in C#. As well as quality-of-life features for casual players, it also has recording/playback and debugging tools, making it the first choice for TASers (Tool-Assisted Speedrunners).![BizHawk](./images/README/BizHawk.png)
 * [Retroarch](https://www.retroarch.com)  RetroArch is a frontend for  emulators, game engines and media players.![retroarch](./images/README/retroarch.png)
 * [EmulationStation](https://emulationstation.org) A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!![simui](./images/README/EmulationStation.png)
+* [ES-DE](https://es-de.org/) ES-DE is a frontend for browsing and launching games from your multi-platform collection. It comes preconfigured for use with a large selection of emulators, game engines, game managers and gaming services. It can also run locally installed games and applications. It's fully customizable, so you can easily expand it with support for additional systems and applications. ![ES-DE_logo](./images/README/ES-DE_logo.png)
 * [RetroBat](https://www.retrobat.org) **RetroBat** is a software distribution designed for emulation and to be the easiest way to enjoy your game collection on your **Windows** computer. The supplied **EmulationStation** interface is fully functional and highly customizable. You can run all your games from it and search online for visuals to enhance the presentation of your collection.![simui](./images/README/Retrobaot.png)
 * [Higan](https://github.com/higan-emu/higan)  It currently emulates the following systems: Famicom, Famicom Disk System, Super Famicom, Super Game Boy, Game Boy, Game Boy Color, Game Boy Advance, Game Boy Player, SG-1000, SC-3000, Master System, Game Gear, Mega Drive, Mega CD, PC Engine, SuperGrafx, MSX, MSX2, ColecoVision, Neo Geo Pocket, Neo Geo Pocket Color, WonderSwan, WonderSwan Color, SwanCrystal, Pocket Challenge V2.![higan](./images/README/higan-logo.png)
 * [ARES](https://ares-emu.net/) ares is a cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.![ares](./images/README/ares.png)
 * [BizHawk](https://ares-emu.net/) BizHawk is a multi-platform emulator with full rerecording support and Lua scripting.![BizHawk](./images/README/tasvideos.png)
 * [Mednafen](https://mednafen.github.io/) Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.![Mednafen](./images/README/mednafen.png)
+* [Xiaoji](https://www.xiaoji001.com/) 我们的工作室正式成立，并命名为《小鸡工作室》。为啥叫小鸡？俺是雷布斯的脑残粉，为了向小米致敬，俺的工作室就叫小鸡啦。![xj_logo](./images/README/xj_logo.png)
 
 ## Emulator integrated system
 
@@ -151,7 +156,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) Want to play some old or new emulator games on your couch? Adding them to steam gives you access to the steam overlay, excellent controller management, and even in home and remote streaming. Adding your emulator games manually is a huge pain, but fear not! Introducing Steam ROM Manager, the bulk game importer and artwork manager for Steam!![steamromm](./images/README/steamromm.png)
 * [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
 
-## Forum community
+## Forum community & Tools
 
 * [NesDev](https://www.nesdev.org) A community of homebrew game developers and hardware researchers for the Nintendo Entertainment System (NES) and other retro consoles.![nesdev](./images/README/nesdev.png)
 * [ngemu](https://www.ngemu.com) A forum community dedicated to all emulation enthusiasts. Come Join discussion on all platforms from Nintendo, Microsoft Xbox, Sony Playstation, to PC. Coding, tips, builds, specs, tricks and more.![ngemu_com](./images/README/ngemu_com.png)
@@ -163,3 +168,4 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Arcadepunks](https://www.arcadepunks.com) Are you ready to dive into the golden age of [ gaming](https://www.arcadepunks.com/what-is-arcade-punks/#)? 🕹️ [ Arcade](https://www.arcadepunks.com/what-is-arcade-punks/#) Punks is your one-stop shop for everything retro gaming: from ready-to-play gaming images and [news](https://www.arcadepunks.com/category/news-web/in-the-news/), to reviews, tutorials, and emulators. Whether you’re a seasoned [retro gamer](https://www.arcadepunks.com/why-retro-gamers-love-to-home-grow/) or a curious newbie, we’ve got something for everyone!![emutalk](./images/README/ArcadePunks.png)
 * [Freeemulator](https://freeemulator.com) FREE VIDEO GAME EMULATORS ![free-emulator](./images/README/free-emulator.png)
 * [GBAtemp](https://gbatemp.net/) GBAtemp.net is an independent gaming community.![gbatemp](./images/README/gbatemp.png)
+* [jujuvincebros](http://jujuvincebros.fr/) The website built by two brothers who love games is also the place where the ARRM tool can be downloaded.![arrm](./images/README/arrm.png)
