@@ -169,4 +169,6 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Emutalk](https://www.emutalk.net/) Simulator and Simulation Software Community.![emutalk](./images/README/emutalk.png)
 * [Freeemulator](https://freeemulator.com) FREE VIDEO GAME EMULATORS ![free-emulator](./images/README/free-emulator.png)
 * [GBAtemp](https://gbatemp.net/) GBAtemp.net is an independent gaming community.![gbatemp](./images/README/gbatemp.png)
+* [Segaretro](https://gbatemp.net/) Welcome to Sega Retro, a project from the people behind Sonic Retro. We aim to cover everything possible about Sega from the 1940s to today. We currently are working on 46,214 articles and have many more that are requested to be worked on.![Segaretro](./images/README/segaretro_logo.png)
+* [Fightersgeneration](https://www.fightersgeneration.com/) The Ultimate Fighting Game Resource.![Segaretro](./images/README/akuma.png)
 * [jujuvincebros](http://jujuvincebros.fr/) The website built by two brothers who love games is also the place where the ARRM tool can be downloaded.![arrm](./images/README/arrm.png)

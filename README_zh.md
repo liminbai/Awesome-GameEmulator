@@ -168,4 +168,6 @@
 * [Emutalk](https://www.emutalk.net/) 模拟器、模拟软件交流社区。![emutalk](./images/README/emutalk.png)
 * [Freeemulator](https://freeemulator.com) 免费的游戏模拟器收集和下载站。![free-emulator](./images/README/free-emulator.png)
 * [GBAtemp](https://gbatemp.net/) 非常好的一个游戏社区网站。![gbatemp](./images/README/gbatemp.png)
+* [Segaretro](https://gbatemp.net/) 你想了解世嘉的一切就来这里，从1940s到现在所有游戏机、游戏、文章。![Segaretro](./images/README/segaretro_logo.png)
+* [Fightersgeneration](https://www.fightersgeneration.com/) 想了解所有的格斗游戏就来这里。![Segaretro](./images/README/akuma.png)
 * [jujuvincebros](http://jujuvincebros.fr/) 热爱游戏的两兄弟搭建的网站，也是ARRM工具下载的地方。![arrm](./images/README/arrm.png)
