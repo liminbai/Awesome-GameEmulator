@@ -15,12 +15,13 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [WinKawaks](https://www.kawaks.org) Kawaks, The BEST arcade game emulator for Capcom and NeoGeo games. When it released, the emulation enthusiast prefers Kawaks. Thank you guys!![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels, and joysticks.![tenknoparrot](./images/README/teknoparrot-logo-new.png)
 * [Supermodel](https://www.supermodel3.com/) Supermodel emulates Sega's Model 3 arcade platform, allowing you to play a number of ground-breaking arcade classics on your PC. It uses OpenGL and the SDL library, and can run on Windows, Linux, and Mac OS X.![supermodel](./images/README/supermodel.png)
+* [Hypseus Singe](https://github.com/DirtBagXon/hypseus-singe.git) Hypseus is a fork of [Matt Ownby's Daphne](http://www.daphne-emu.com/).Daphne is Multiple Arcade Laserdisc Emulator!  It's a program that lets one play the original versions of many laserdisc arcade games on one's PC.![hypseus-logo](./images/README/hypseus-logo.png)
 
 ### Nintendo Emulators
 
 #### Nintendo NES Emulators
 
-* [FCEUX](https://fceux.com) The all in one NES/Famicom/Dendy Emulator.![](https://fceux.com/web/assets/ICON_1.ico)
+* [FCEUX](https://fceux.com) The all in one NES/Famicom/Dendy Emulator.![FCEUX](https://fceux.com/web/assets/ICON_1.ico)
 * [Jnes](https://www.jabosoft.com/jnes) Jnes is an emulator for the original 8-bit Nintendo Entertainment System (NES) with an enjoyable and intuitive user interface which has been translated into 20 languages. Whether you are looking to instantly save your game progress or record a movie for friends you'll find it here. Compatibility tends to focus on North American and European games, although there is support for many popular Japanese games.![jnes](./images/README/jnes.png)
 * [VirtuaNES](http://virtuanes.s1.xrea.com/) VirtuaNES is Famicom/NES emulator for Win32 Programmed by Norix.
 * [Nestopia](https://nestopia.sourceforge.net) A very good FC Emulator.![jnes](./images/README/nestopia.png)
@@ -76,7 +77,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 #### PlayStation 2
 
 * [PCSX2](https://pcsx2.net) PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine that manages hardware states and system memory.![pcsx2](./images/README/pcsx2.png)
-* [AetherSX2 ](https://aethersx2.net/)is a PlayStation 2 emulator that enables users to play PS2 games on iOS, Android, Mac, Windows PC, Linux users can play their favorite games from the PS2 console without the need for a physical PS2 console.![aechersx2](./images/README/aechersx2.png)
+* [AetherSX2](https://aethersx2.net/)is a PlayStation 2 emulator that enables users to play PS2 games on iOS, Android, Mac, Windows PC, Linux users can play their favorite games from the PS2 console without the need for a physical PS2 console.![aechersx2](./images/README/aechersx2.png)
 * [Play!](https://purei.org/) Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS & web browser platforms.![play](./images/README/play.png)
 
 #### PlayStation 3

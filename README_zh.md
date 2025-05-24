@@ -15,6 +15,7 @@
 * [WinKawaks](https://www.kawaks.org) Kawaks 是 Capcom 和 NeoGeo 游戏的最佳街机模拟器。发布时，模拟爱好者更喜欢 Kawaks。感谢你们！![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot 是一个软件包，允许你在自己的硬件上运行选定的基于 PC 的街机游戏，完全支持键盘和鼠标控制、游戏手柄、方向盘和操纵杆。![tenknoparrot](./images/README/teknoparrot-logo-new.png)
 * [Supermodel](https://www.supermodel3.com/) Sega's Model 3街机平台，可以玩以前游戏厅内的3D的赛车。![supermodel](./images/README/supermodel.png)
+* [Hypseus Singe](https://github.com/DirtBagXon/hypseus-singe.git) Hypseus 是[Matt Ownby's Daphne](http://www.daphne-emu.com/)的分支。很小众的街机，应该只在美国发行过，想了解它支持的游戏请看这里[American Laser Games](https://en.wikipedia.org/wiki/American_Laser_Games)![hypseus-logo](./images/README/hypseus-logo.png)
 
 ### 任天堂模拟器
 
