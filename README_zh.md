@@ -95,6 +95,10 @@
 * [ppsspp](https://www.ppsspp.org) 一个快速便携的 PSP 模拟器。![ppsspp](./images/README/ppsspp.png)
 * [jpcsp](https://github.com/jpcsp/jpcsp) Java 开发的多平台 PSP 模拟器。![Jpcsp](./images/README/Jpcsplogo.jpg)
 
+#### PSV
+
+* [Vita3K](https://vita3k.org/) 全球首个可用的PlayStation Vita模拟器。![Vita3K](./images/README/Vita3K.png)
+
 ### 世嘉模拟器
 
 * [Gens](http://gens.me/) 世嘉 MD 模拟器。![gens](./images/README/genslogo.png)

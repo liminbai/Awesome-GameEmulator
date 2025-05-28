@@ -95,6 +95,10 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [ppsspp](https://www.ppsspp.org) a fast and portable PSP emulator.![ppsspp](./images/README/ppsspp.png)
 * [jpcsp](https://github.com/jpcsp/jpcsp) Java PSP Emulator.![Jpcsp](./images/README/Jpcsplogo.jpg)
 
+#### PSV
+
+* [Vita3K](https://vita3k.org/) The world's first functional PlayStation Vita emulator.![Vita3K](./images/README/Vita3K.png)
+
 ### Sega Emulators
 
 * [Gens](http://gens.me/) Sega MD emulator.![gens](./images/README/genslogo.png)
