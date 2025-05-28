@@ -12,6 +12,7 @@
 
 * [MAME](https://www.mamedev.org/) MAME 是一个多用途的模拟框架。![MAME](https://www.mamedev.org/_include/img/logo-mame-small-gradient.svg)
 * [FBAP](http://fbap.1emu.net/) FB Alpha 是一个支持多平台的街机模拟器。![fbap](./images/README/fbap.png)
+* [FBNeo](https://github.com/finalburnneo/FBNeo) FBNeo应该是FB Alpha后期发展得新分支，可能因为一些商业原因团队从新创建。支持的平台主要有Capcom CPS-1, CPS-2, CPS-3, Neo Geo, and Sega System 16等![fbneo](./images/README/fbneo.png)
 * [WinKawaks](https://www.kawaks.org) Kawaks 是 Capcom 和 NeoGeo 游戏的最佳街机模拟器。发布时，模拟爱好者更喜欢 Kawaks。感谢你们！![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot 是一个软件包，允许你在自己的硬件上运行选定的基于 PC 的街机游戏，完全支持键盘和鼠标控制、游戏手柄、方向盘和操纵杆。![tenknoparrot](./images/README/teknoparrot-logo-new.png)
 * [Supermodel](https://www.supermodel3.com/) Sega's Model 3街机平台，可以玩以前游戏厅内的3D的赛车。![supermodel](./images/README/supermodel.png)
@@ -21,7 +22,7 @@
 
 #### 任天堂 NES（FC）
 
-* [FCEUX](https://fceux.com) 一体化的 NES/Famicom/Dendy 模拟器。![](https://fceux.com/web/assets/ICON_1.ico)
+* [FCEUX](https://fceux.com) 一体化的 NES/Famicom/Dendy 模拟器。![fceux](https://fceux.com/web/assets/ICON_1.ico)
 * [Jnes](https://www.jabosoft.com/jnes) Jnes是8位任天堂（NES）模拟器，具有非常友好的用户界面，已被翻译成20种语言。![jnes](./images/README/jnes.png)
 * [VirtuaNES](http://virtuanes.s1.xrea.com/) VirtuaNES是基于Win32编写的NES模拟器。
 * [Nestopia](https://nestopia.sourceforge.net) 一个非常好的NES模拟器。![jnes](./images/README/nestopia.png)
@@ -71,13 +72,14 @@
 #### PlayStation 1
 
 * [ePSXe](https://www.epsxe.com) PlayStation 1 模拟器。![epsxe](./images/README/right_banner.jpg)
+* [DuckStation](https://duckstation.org/) PlayStation 1 模拟器。![epsxe](./images/README/smol.png)
 * [PCSXR](https://ps1emulator.com/) PlayStation 1 模拟器。![pcsxr](./images/README/pcsxr.png)
 * [FPseNG](https://www.fpsece.net/) 一款支持Android的PSone模拟器。![fpse](./images/README/fpse.jpg)
 
 #### PlayStation 2
 
 * [PCSX2](https://pcsx2.net) PCSX2 是一个免费的开源 PlayStation 2 (PS2) 模拟器。其目的是模拟 PS2 的硬件，使用 MIPS CPU 解释器、重新编译器和管理硬件状态和系统内存的虚拟机的组合。![pcsx2](./images/README/pcsx2.png)
-* [AetherSX2 ](https://aethersx2.net/)是一款适用于 PlayStation 2 的模拟器，能让用户在 iOS、Android、Mac、Windows PC 和 Linux 等平台上运行 PlayStation 2 游戏。对于使用 PlayStation 2 游戏机的用户来说，无需拥有实体 PlayStation 2 游戏机即可畅玩其喜爱的游戏。![aechersx2](./images/README/aechersx2.png)
+* [AetherSX2](https://aethersx2.net/)是一款适用于 PlayStation 2 的模拟器，能让用户在 iOS、Android、Mac、Windows PC 和 Linux 等平台上运行 PlayStation 2 游戏。对于使用 PlayStation 2 游戏机的用户来说，无需拥有实体 PlayStation 2 游戏机即可畅玩其喜爱的游戏。![aechersx2](./images/README/aechersx2.png)
 * [Play!](https://purei.org/) 一款支持多平台的PlayStation 2 模拟器。![play](./images/README/play.png)
 
 #### PlayStation 3
@@ -114,6 +116,7 @@
 * [Mednafen](https://mednafen.github.io/) 很好的多模拟器集成环境，通过命令调用其他模拟器。![Mednafen](./images/README/mednafen.png)
 * [Xiaoji](https://www.xiaoji001.com/) 一个同样爱好模拟器的国内团队搞的。我们的工作室正式成立，并命名为《小鸡工作室》。为啥叫小鸡？俺是雷布斯的脑残粉，为了向小米致敬，俺的工作室就叫小鸡啦。![xj_logo](./images/README/xj_logo.png)
 * [Arcadepunks](https://www.arcadepunks.com) 必须推荐的网站，专门的团队把各种模拟器和游戏一起打包起来下载，有超酷的游戏封面UI，最有名的CoinOPS Next 2整合包就出自这里。![emutalk](./images/README/ArcadePunks.png)
+* [GameEx](https://www.gameex.com/) GameEx被认为是最强大、稳定和功能丰富的游戏前端（模拟器启动器），适用于MAME、GameBase、Daphne、PC Games和所有基于命令行的游戏模拟器，同时也是完整的家庭影院PC解决方案或windows媒体中心插件。![ares](./images/README/gameex.png)
 
 ## 模拟器集成系统
 
@@ -156,6 +159,8 @@
 * [ClrMamePro](https://mamedev.emulab.it/clrmamepro/) ClrMamePro 是一个专业的 ROM 管理工具，主要用于管理和验证 ROM 文件的完整性和一致性。![clrmame](./images/README/clrmame.png)
 * [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) 想在沙发上玩一些老游戏或新游戏的模拟器版本吗？将它们添加到Steam中，你可以使用Steam的悬浮界面、出色的控制器管理功能，甚至还能实现家庭内和远程串流功能。不过，手动将模拟器游戏添加到Steam中会非常麻烦。别担心！现在介绍一款名为 Steam ROM Manager 的工具，它是一款批量游戏导入器和游戏封面管理器，专为Steam设计！![steamromm](./images/README/steamromm.png)
 * [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
+* [Retrom](https://github.com/JMBeresford/retrom.git) 一个集中得游戏资源库管理工具。![retrom](./images/README/Retrom.png)
+* [RomVault](https://www.romvault.com/) 非常棒得一个Rom资源库管理工具。![RomVault](./images/README/RomVault.png)
 
 ## 论坛社区和工具
 
@@ -168,6 +173,6 @@
 * [Emutalk](https://www.emutalk.net/) 模拟器、模拟软件交流社区。![emutalk](./images/README/emutalk.png)
 * [Freeemulator](https://freeemulator.com) 免费的游戏模拟器收集和下载站。![free-emulator](./images/README/free-emulator.png)
 * [GBAtemp](https://gbatemp.net/) 非常好的一个游戏社区网站。![gbatemp](./images/README/gbatemp.png)
-* [Segaretro](https://gbatemp.net/) 你想了解世嘉的一切就来这里，从1940s到现在所有游戏机、游戏、文章。![Segaretro](./images/README/segaretro_logo.png)
+* [Segaretro](https://segaretro.org/) 你想了解世嘉的一切就来这里，从1940s到现在所有游戏机、游戏、文章。![Segaretro](./images/README/segaretro_logo.png)
 * [Fightersgeneration](https://www.fightersgeneration.com/) 想了解所有的格斗游戏就来这里。![Segaretro](./images/README/akuma.png)
 * [jujuvincebros](http://jujuvincebros.fr/) 热爱游戏的两兄弟搭建的网站，也是ARRM工具下载的地方。![arrm](./images/README/arrm.png)

@@ -12,6 +12,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 * [MAME](https://www.mamedev.org/) MAME is a multi-purpose emulation framework.![MAME](https://www.mamedev.org/_include/img/logo-mame-small-gradient.svg)
 * [FBAP](http://fbap.1emu.net/) FB Alpha is an arcade emulator.![fbap](./images/README/fbap.png)
+* [FBNeo](https://github.com/finalburnneo/FBNeo) FBNeo, or FinalBurn Neo, is a multi-system arcade emulator designed for retro gaming enthusiasts. It emulates a wide range of classic arcade games and consoles, such as Capcom CPS-1, CPS-2, CPS-3, Neo Geo, and Sega System 16, among others. FBNeo focuses on accurate emulation and high performance, supporting advanced features like netplay, rewinding, and shader effects. It's a continuation of the FinalBurn and FinalBurn Alpha projects, aiming to provide a comprehensive and user-friendly platform for preserving and enjoying vintage games on modern systems .![fbneo](./images/README/fbneo.png)
 * [WinKawaks](https://www.kawaks.org) Kawaks, The BEST arcade game emulator for Capcom and NeoGeo games. When it released, the emulation enthusiast prefers Kawaks. Thank you guys!![winkawask](./images/README/winkawask.jpg)
 * [Teknoparrot](https://teknoparrot.com) TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels, and joysticks.![tenknoparrot](./images/README/teknoparrot-logo-new.png)
 * [Supermodel](https://www.supermodel3.com/) Supermodel emulates Sega's Model 3 arcade platform, allowing you to play a number of ground-breaking arcade classics on your PC. It uses OpenGL and the SDL library, and can run on Windows, Linux, and Mac OS X.![supermodel](./images/README/supermodel.png)
@@ -71,6 +72,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 #### PlayStation 1
 
 * [ePSXe](https://www.epsxe.com) PlayStation 1 emulator.![epsxe](./images/README/right_banner.jpg)
+* [DuckStation](https://duckstation.org/) DuckStation is a PS1 Emulator aiming for the best accuracy and game support.![epsxe](./images/README/smol.png)
 * [PCSXR](https://ps1emulator.com/) PlayStation 1 Emulator.![pcsxr](./images/README/pcsxr.png)
 * [FPseNG](https://www.fpsece.net/) FPse64 is the best PSone emulator for Android devices.![fpse](./images/README/fpse.jpg)
 
@@ -115,6 +117,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Mednafen](https://mednafen.github.io/) Mednafen is a portable, utilizing OpenGL and SDL, argument(command-line)-driven multi-system emulator.![Mednafen](./images/README/mednafen.png)
 * [Xiaoji](https://www.xiaoji001.com/) 我们的工作室正式成立，并命名为《小鸡工作室》。为啥叫小鸡？俺是雷布斯的脑残粉，为了向小米致敬，俺的工作室就叫小鸡啦。![xj_logo](./images/README/xj_logo.png)
 * [Arcadepunks](https://www.arcadepunks.com) Are you ready to dive into the golden age of gaming? Arcade Punks is your one-stop shop for everything retro gaming: from ready-to-play gaming images and news, to reviews, tutorials, and emulators. Whether you’re a seasoned retro gamer or a curious newbie, we’ve got something for everyone!![emutalk](./images/README/ArcadePunks.png)
+* [GameEx](https://www.gameex.com/) GameEx is considered to be the most powerful, stable and feature rich gaming front-end (emulator launcher) for MAME, GameBase, Daphne, PC Games and all command line based game emulators, along with being a complete Home Theatre PC solution or plug in for windows media center. It’s designed to be used seamlessely with arcade controls and various arcade products and also has fully featured tuchscreen and tablet support suitable to be used as a CarPC and touchscreen frontend. GameEx and its related online services are completely free.![ares](./images/README/gameex.png)
 
 ## Emulator integrated system
 
@@ -157,6 +160,8 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [ClrMamePro](https://mamedev.emulab.it/clrmamepro/) ‌ClrMamePro‌是一款专业的ROM管理工具，主要用于管理和验证ROM文件的完整性和一致性。![clrmame](./images/README/clrmame.png)
 * [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) Want to play some old or new emulator games on your couch? Adding them to steam gives you access to the steam overlay, excellent controller management, and even in home and remote streaming. Adding your emulator games manually is a huge pain, but fear not! Introducing Steam ROM Manager, the bulk game importer and artwork manager for Steam!![steamromm](./images/README/steamromm.png)
 * [SimUI](https://www.simui.net/) SIMUI (Simplify Integrate Mouse UI) 是由热爱模拟游戏文化的玩家开发的免费专业游戏ROM管理软件。![simui](./images/README/simui.png)
+* [Retrom](https://github.com/JMBeresford/retrom.git) Retrom is a centralized game library management service that allows you to host your games on a single device, and connect clients on any amount of other devices to (un)install/download and play them when and where you want to! Think of it as a sort of self-hosted Steam for your DRM-free game library.![Retrom](./images/README/Retrom.png)
+* [RomVault](https://www.romvault.com/) RomVault will take one or more DAT files and your set of ROM (zip) files, and clean up your files to match your DAT files. If you find more ROMs to add to your collection RomVault will scan and merge in these files, and if new DATs are released you can easily scan in these new DATs and update your ROM collections to match, all of this can be done with just a few button clicks in the UI.![RomVault](./images/README/RomVault.png)
 
 ## Forum community & Tools
 
@@ -169,6 +174,6 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Emutalk](https://www.emutalk.net/) Simulator and Simulation Software Community.![emutalk](./images/README/emutalk.png)
 * [Freeemulator](https://freeemulator.com) FREE VIDEO GAME EMULATORS ![free-emulator](./images/README/free-emulator.png)
 * [GBAtemp](https://gbatemp.net/) GBAtemp.net is an independent gaming community.![gbatemp](./images/README/gbatemp.png)
-* [Segaretro](https://gbatemp.net/) Welcome to Sega Retro, a project from the people behind Sonic Retro. We aim to cover everything possible about Sega from the 1940s to today. We currently are working on 46,214 articles and have many more that are requested to be worked on.![Segaretro](./images/README/segaretro_logo.png)
+* [Segaretro](https://segaretro.org/) Welcome to Sega Retro, a project from the people behind Sonic Retro. We aim to cover everything possible about Sega from the 1940s to today. We currently are working on 46,214 articles and have many more that are requested to be worked on.![Segaretro](./images/README/segaretro_logo.png)
 * [Fightersgeneration](https://www.fightersgeneration.com/) The Ultimate Fighting Game Resource.![Segaretro](./images/README/akuma.png)
 * [jujuvincebros](http://jujuvincebros.fr/) The website built by two brothers who love games is also the place where the ARRM tool can be downloaded.![arrm](./images/README/arrm.png)
