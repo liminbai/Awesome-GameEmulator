@@ -11,6 +11,7 @@
 ### 街机模拟器
 
 * [MAME](https://www.mamedev.org/) MAME 是一个多用途的模拟框架。![MAME](https://www.mamedev.org/_include/img/logo-mame-small-gradient.svg)
+* [AdvanceMAME](https://www.advancemame.it/) 这个基于MAME 0.106和MESS 0.106发行的版本，官网描述游戏支持上和MAME0.106支持的多少有些差异，可以打包下载带Rom的包大概26G左右，而MAME0.106的全量ROM包应该在70G左右![AdvanceMAME](./images/README/AdvanceMAME.jpg)
 * [FBAP](http://fbap.1emu.net/) FB Alpha 是一个支持多平台的街机模拟器。![fbap](./images/README/fbap.png)
 * [FBNeo](https://github.com/finalburnneo/FBNeo) FBNeo应该是FB Alpha后期发展得新分支，可能因为一些商业原因团队从新创建。支持的平台主要有Capcom CPS-1, CPS-2, CPS-3, Neo Geo, and Sega System 16等![fbneo](./images/README/fbneo.png)
 * [WinKawaks](https://www.kawaks.org) Kawaks 是 Capcom 和 NeoGeo 游戏的最佳街机模拟器。发布时，模拟爱好者更喜欢 Kawaks。感谢你们！![winkawask](./images/README/winkawask.jpg)

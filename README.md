@@ -11,6 +11,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 ### Arcade Emulators
 
 * [MAME](https://www.mamedev.org/) MAME is a multi-purpose emulation framework.![MAME](https://www.mamedev.org/_include/img/logo-mame-small-gradient.svg)
+* [AdvanceMAME](https://www.advancemame.it/) The Advance Projects allow you to play Arcade games with video hardware like TVs, Arcade monitors, PC monitors and LCD screens. They run in GNU/Linux, Mac OS X, DOS and Windows.![AdvanceMAME](./images/README/AdvanceMAME.jpg)
 * [FBAP](http://fbap.1emu.net/) FB Alpha is an arcade emulator.![fbap](./images/README/fbap.png)
 * [FBNeo](https://github.com/finalburnneo/FBNeo) FBNeo, or FinalBurn Neo, is a multi-system arcade emulator designed for retro gaming enthusiasts. It emulates a wide range of classic arcade games and consoles, such as Capcom CPS-1, CPS-2, CPS-3, Neo Geo, and Sega System 16, among others. FBNeo focuses on accurate emulation and high performance, supporting advanced features like netplay, rewinding, and shader effects. It's a continuation of the FinalBurn and FinalBurn Alpha projects, aiming to provide a comprehensive and user-friendly platform for preserving and enjoying vintage games on modern systems .![fbneo](./images/README/fbneo.png)
 * [WinKawaks](https://www.kawaks.org) Kawaks, The BEST arcade game emulator for Capcom and NeoGeo games. When it released, the emulation enthusiast prefers Kawaks. Thank you guys!![winkawask](./images/README/winkawask.jpg)
