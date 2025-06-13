@@ -49,6 +49,7 @@
 
 * [Yuzu](https://yuzu-emulator.net) Yuzu是一款开源模拟器，能让您在诸如Windows、Android和Linux 等平台上玩任天堂Switch游戏。![Yuzu](./images/README/Yuzu.png)
 * [Ryujinx](https://ryujinx-emulator.com) Ryujinx 是一款适用于 Windows、Mac和Linux设备的开源任天堂Switch游戏机模拟器。![Ryujinx](./images/README/ryujinx.png)
+* [Citron Emulator](https://citron-emu.org/) 这个国内玩家用得少，也是个很好得任天堂模拟器。![Ryujinx](./images/README/citron.png)
 
 #### 任天堂 DS
 
@@ -66,7 +67,13 @@
 
 ### Xbox 模拟器
 
-* [Xenia](https://xbox360emulator.com) Xenia 是一个免费的开源 Xbox 360 模拟器，用 C++ 编写，适用于 Windows 和 Linux。还有一个非官方版本移植到 Android。![xbox360](./images/README/xbox360.png)
+#### Xbox
+
+* [XEMU](https://xemu.app/) 第一代的Xbox模拟器。![xbox360](./images/README/xemu.png)
+
+#### Xbox 360
+
+* [Xenia](https://xenia.jp/) Xenia 是一个免费的开源 Xbox 360 模拟器，用 C++ 编写，适用于 Windows 和 Linux。还有一个非官方版本移植到 Android。![Xenia](./images/README/xenia.png)
 
 ### 索尼模拟器
 
@@ -156,6 +163,7 @@
 * [Romsdl](https://romsdl.com/) 很好很全的Rom与模拟器下载站。![romsdl](./images/README/romsdl.png)
 * [ROMHustler](https://romhustler.org) 很好很全的Rom与模拟器下载站。![romsdl](./images/README/ROMHustler.png)
 * [nsw2u](https://nsw2u.com/) 很好很全的Rom与模拟器下载站。![nsw2u](./images/README/nsw2u.png)
+* [EmulatorGames](https://www.emulatorgames.net/) 很好很全的Rom与模拟器下载站。![EmulatorGames](./images/README/EmulatorGames.png)
 
 ## ROM 管理器
 

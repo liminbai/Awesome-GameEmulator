@@ -49,6 +49,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 * [Yuzu](https://yuzu-emulator.net) is an open-source emulator that allows you to play Nintendo Switch games on platforms such as Windows, Android and Linux.![Yuzu](./images/README/Yuzu.png)
 * [Ryujinx](https://ryujinx-emulator.com) Ryujinx is an open-source Nintendo Switch emulator for Windows, Mac and Linux devices.![Ryujinx](./images/README/ryujinx.png)
+* [Citron Emulator](https://citron-emu.org/) Experience Nintendo Homebrew games on your PC with unprecedented performance and compatibility.![Ryujinx](./images/README/citron.png)
 
 #### Nintendo DS Emulators
 
@@ -66,7 +67,13 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 
 ### Xbox Emulators
 
-* [Xenia](https://xbox360emulator.com) Xenia is a free and open-source Xbox 360 Emulator written in C++ for Windows & Linux. An unofficial version ported to Android is also available.![xbox360](./images/README/xbox360.png)
+#### Xbox
+
+* [XEMU](https://xemu.app/) A free and open-source application that emulates the original Microsoft Xbox game console, enabling people to play their original Xbox games on Windows, macOS, and Linux systems.![xbox360](./images/README/xemu.png)
+
+#### Xbox 360
+
+* [Xenia](https://xenia.jp/) Xenia is a free and open-source Xbox 360 Emulator written in C++ for Windows & Linux. An unofficial version ported to Android is also available.![xbox360](./images/README/xenia.png)
 
 ### Sony Emulators
 
@@ -157,6 +164,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Romsdl](https://romsdl.com/) Have a look at the biggest collection of retro console games and get the chance to play the games from your childhood. Select the console, download your favorite cartridge games and start playing them on your phone or computer using the variety of emulators offered at RomsDL.![romsdl](./images/README/romsdl.png)
 * [ROMHustler](https://romhustler.org) Download Roms & Emulators.![romsdl](./images/README/ROMHustler.png)
 * [nsw2u](https://nsw2u.com/) Download Roms & Emulators.![nsw2u](./images/README/nsw2u.png)
+* [EmulatorGames](https://www.emulatorgames.net/) We collected complete Emulator Games and video Game ROMs for download free without charge.![EmulatorGames](./images/README/EmulatorGames.png)
 
 ## ROM Manager
 
