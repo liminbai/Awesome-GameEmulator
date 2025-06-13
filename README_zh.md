@@ -122,6 +122,7 @@
 * [Xiaoji](https://www.xiaoji001.com/) 一个同样爱好模拟器的国内团队搞的。我们的工作室正式成立，并命名为《小鸡工作室》。为啥叫小鸡？俺是雷布斯的脑残粉，为了向小米致敬，俺的工作室就叫小鸡啦。![xj_logo](./images/README/xj_logo.png)
 * [Arcadepunks](https://www.arcadepunks.com) 必须推荐的网站，专门的团队把各种模拟器和游戏一起打包起来下载，有超酷的游戏封面UI，最有名的CoinOPS Next 2整合包就出自这里。![emutalk](./images/README/ArcadePunks.png)
 * [GameEx](https://www.gameex.com/) GameEx被认为是最强大、稳定和功能丰富的游戏前端（模拟器启动器），适用于MAME、GameBase、Daphne、PC Games和所有基于命令行的游戏模拟器，同时也是完整的家庭影院PC解决方案或windows媒体中心插件。![ares](./images/README/gameex.png)
+* [LaunchBox](https://www.launchbox-app.com/) 这个不能漏了，提供漂亮得资源集成管理界面![emutalk](./images/README/borderless-logo.png)
 
 ## 模拟器集成系统
 

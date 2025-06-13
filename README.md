@@ -123,6 +123,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [Xiaoji](https://www.xiaoji001.com/) 我们的工作室正式成立，并命名为《小鸡工作室》。为啥叫小鸡？俺是雷布斯的脑残粉，为了向小米致敬，俺的工作室就叫小鸡啦。![xj_logo](./images/README/xj_logo.png)
 * [Arcadepunks](https://www.arcadepunks.com) Are you ready to dive into the golden age of gaming? Arcade Punks is your one-stop shop for everything retro gaming: from ready-to-play gaming images and news, to reviews, tutorials, and emulators. Whether you’re a seasoned retro gamer or a curious newbie, we’ve got something for everyone!![emutalk](./images/README/ArcadePunks.png)
 * [GameEx](https://www.gameex.com/) GameEx is considered to be the most powerful, stable and feature rich gaming front-end (emulator launcher) for MAME, GameBase, Daphne, PC Games and all command line based game emulators, along with being a complete Home Theatre PC solution or plug in for windows media center. It’s designed to be used seamlessely with arcade controls and various arcade products and also has fully featured tuchscreen and tablet support suitable to be used as a CarPC and touchscreen frontend. GameEx and its related online services are completely free.![ares](./images/README/gameex.png)
+* [LaunchBox](https://www.launchbox-app.com/) We Make Your Games Beautiful Emulate, Organize, and Beautify Your Game Collection![emutalk](./images/README/borderless-logo.png)
 
 ## Emulator integrated system
 
