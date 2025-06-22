@@ -97,6 +97,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 #### PlayStation 4
 
 * [shadPS4](https://shadps4.net) shadPS4 is an early PlayStation 4 emulator for Windows, Linux and macOS.![sps4](./images/README/SPS4.png)
+* [PCSX4](https://pcsx4.com) PCSX4 is the first and the only PS4/PS5 emulator that allows you to run PS4/PS5 games on PC, Mac, Linux and Android (arm64).![PCSX4](./images/README/PCSX4.png)
 
 #### PSP
 

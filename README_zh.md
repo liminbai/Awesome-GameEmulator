@@ -97,6 +97,7 @@
 #### PlayStation 4
 
 * [shadPS4](https://shadps4.net) shadPS4 是一款专为 Windows、Linux 和 macOS 系统开发的早期 PlayStation 4 主机模拟器。![sps4](./images/README/SPS4.png)
+* [PCSX4](https://pcsx4.com) PCSX4是第一个也是唯一的PS4/PS5模拟器，允许您在PC， Mac， Linux和Android （arm64）上运行PS4/PS5游戏。![PCSX4](./images/README/PCSX4.png)
 
 #### PSP
 
