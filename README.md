@@ -167,6 +167,7 @@ English | [简体中文](https://github.com/liminbai/awesome-GameEmulator/blob/m
 * [ROMHustler](https://romhustler.org) Download Roms & Emulators.![romsdl](./images/README/ROMHustler.png)
 * [nsw2u](https://nsw2u.com/) Download Roms & Emulators.![nsw2u](./images/README/nsw2u.png)
 * [EmulatorGames](https://www.emulatorgames.net/) We collected complete Emulator Games and video Game ROMs for download free without charge.![EmulatorGames](./images/README/EmulatorGames.png)
+* [CoolROM](https://coolrom.com.au/) You've come to the right place! CoolROM.com is the largest retro gaming resource on the net - we have thousands of games (ROMs) and the latest emulators to run them. Most games have screenshots and are sorted for your convenience. Navigate using our menu above now!![CoolROM](./images/README/coolrom.png)
 
 ## ROM Manager
 

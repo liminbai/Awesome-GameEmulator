@@ -166,6 +166,7 @@
 * [ROMHustler](https://romhustler.org) 很好很全的Rom与模拟器下载站。![romsdl](./images/README/ROMHustler.png)
 * [nsw2u](https://nsw2u.com/) 很好很全的Rom与模拟器下载站。![nsw2u](./images/README/nsw2u.png)
 * [EmulatorGames](https://www.emulatorgames.net/) 很好很全的Rom与模拟器下载站。![EmulatorGames](./images/README/EmulatorGames.png)
+* [CoolROM](https://coolrom.com.au/) 您来对地方了！CoolROM.com 是网络上最大的复古游戏资源网站——我们有成千上万款游戏（ROM）以及运行它们的最新模拟器。大多数游戏都有截图，并且为了方便您查找已进行了分类。![CoolROM](./images/README/coolrom.png)
 
 ## ROM 管理器
 
